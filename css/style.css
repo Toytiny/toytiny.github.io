@@ -262,7 +262,7 @@ section {
         4.HEADER
 ============================*/
 header {
-    width: 80px;
+    width: 100px;
     border-radius: 0 1.25rem 1.25rem 0;
     position: fixed;
     z-index: 1030;
@@ -474,7 +474,7 @@ canvas {
 }
 
 .about-img-box {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
     .about-img-box .image {
@@ -495,8 +495,8 @@ canvas {
 }
 
 .about-content .text {
-    font-size: 14px;
-    line-height: 25px;
+    font-size: 18px;
+    line-height: 30px;
     margin-top: 20px;
 }
 
