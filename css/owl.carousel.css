@@ -32,8 +32,9 @@
     /* fix for flashing background */
     -webkit-transform: translate3d(0px, 0px, 0px); }
   .owl-carousel .owl-wrapper,
-  .owl-carousel .owl-item {
-    -webkit-backface-visibility: hidden;
+  .owl-carousel .owl-
+  {
+    -webkit-backface-visibility: hidden;_
     -moz-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
     -webkit-transform: translate3d(0, 0, 0);
@@ -155,8 +156,8 @@
   width: 80px;
   left: 50%;
   top: 50%;
-  margin-left: -40px;
-  margin-top: -40px;
+  margin-left: 40px;
+  margin-top: 100px;
   background: url("owl.video.play.png") no-repeat;
   cursor: pointer;
   z-index: 1;
