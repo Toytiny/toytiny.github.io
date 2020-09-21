@@ -475,6 +475,7 @@ canvas {
 
 .about-img-box {
     margin-top: 50px;
+	margin-left: 50px;
 }
 
     .about-img-box .image {
@@ -486,7 +487,8 @@ canvas {
     }
 
 .about-text-block {
-    margin-top: 30px;
+    margin-top: 40px;
+	margin-left: 0px;
 }
 
 .about-content h4 {
