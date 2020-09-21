@@ -555,7 +555,7 @@ canvas {
 ============================*/
 .service-box {
     background: #f2f2f2;
-    height: 280px;
+    height: 300px;
 	padding: 20px;
     margin-top: 20px;
 }
@@ -591,7 +591,7 @@ canvas {
 
 .service-content {
     padding-left: 90px;
-	padding-top: 10px;
+	padding-top: 15px;
 }
 
     .service-content h3 {
@@ -613,6 +613,16 @@ canvas {
     .service-content p {
         color: #000;
         margin-bottom: 15px;
+    }
+   .service-img-box {
+    margin-top: 10px;
+	margin-left: 20px;
+	width: 450px;
+}
+
+  .service-img-box .image {
+        padding: 15px;
+	    background: #fff;
     }
 
 .service-btn {
