@@ -374,7 +374,7 @@ header .navbar-brand b {
         5.HOME
 ============================*/
 .home-bg {
-    background: url('../images/slider-img/home-bg.jpg') center no-repeat fixed;
+    background: url('../images/belt.png') center no-repeat fixed;
     background-size: cover;
     overflow:hidden;
 }
