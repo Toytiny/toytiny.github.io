@@ -1,0 +1,444 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">google.load("jquery", "1.3.2");</script>
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<style type="text/css">
+    body {
+        font-family: "Titillium Web", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1200px;
+    }
+
+    a:link,
+    a:visited {
+        color: #1F407A;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #1269B0;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+        text-align: center;
+    }
+
+    h1 {
+        font-weight: 450;
+        line-height: 1.15em;
+    }
+
+    h2 {
+        font-size: 1.75em;
+        font-weight: 200;
+        margin: 16px 0px 4px 0px;
+    }
+
+    h3 {
+        font-weight: 300;
+        font-size: 1.15em;
+    }
+
+    h4 {
+        font-weight: 400;
+        font-size: 1em;
+    }
+
+    .title {
+        padding: 20px 0px 30px 0px;
+        font-size: 16px;
+    }
+
+    section {
+        margin: 16px 0px 16px 0px;
+        text-align: justify;
+        clear: both;
+        line-height: 1.25em;
+    }
+
+    .author-row {
+        font-size: 18px;
+        margin: 0px 30px 0px 30px
+    }
+
+    .affil-row {
+        font-size: 16px;
+    }
+
+
+    .teaser {
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+   
+
+    .text-center {
+        text-align: center;
+    }
+
+    .screenshot {
+        width: 256px;
+        border: 1px solid #ddd;
+    }
+
+    .screenshot-el {
+        margin-bottom: 16px;
+    }
+
+    hr {
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #ddd;
+        margin: 0;
+    }
+
+    .material-icons {
+        vertical-align: -6px;
+    }
+
+    p {
+        line-height: 1.25em;
+    }
+
+    .caption {
+        font-size: 15px;
+        /*font-style: italic;*/
+        color: #666;
+        text-align: left;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+
+    figure {
+        display: block;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #bibtex pre {
+        font-size: 14px;
+        background-color: #eee;
+        padding: 16px;
+    }
+
+
+    .flex-row {
+        display: flex;
+        padding-top: 0px;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        line-height: 1.25em;
+        
+    }
+
+    .paper-btn {
+        position: relative;
+        text-align: center;
+
+        display: block;
+        margin: 30px auto;
+        padding: 8px 8px;
+
+        border-width: 0;
+        outline: none;
+        border-radius: 2px;
+
+        background-color: #2269a0;
+        color: #d5e9ee !important;
+        font-size: 20px;
+        width: 100px;
+        font-weight: 600;
+    }
+
+    .paper-btn:hover {
+        opacity: 0.85;
+    }
+
+    .container {
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 16px;
+        padding-right: 16px;
+        width: 1000px;
+        text-align:center;
+    }
+
+
+    .col-5 {
+        width: 20%;
+        float: left;
+    }
+
+    .col-3 {
+        width: 33%;
+        float: left;
+    }
+
+    .col-2 {
+        width: 50%;
+        float: left;
+    }
+
+
+    .author-row p {
+        text-align: center;
+        line-height: 0px;
+        font-size: 20px;
+        color: #644AD9;
+    }
+
+    .author-row img {
+        width: 57%;
+        border-radius: 100%;
+    }
+
+    .author-row,
+    .affil-row {
+        overflow: auto;
+        margin-top: 0px;
+        font-size: 20px;
+    }
+    .affil-row p{
+        color: #644AD9;
+    }
+    .glb-row {
+        overflow: auto;
+        margin-top: 20px;
+        width: 1200px;
+    }
+    .centered {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .button_row {
+        display: flex;
+        width: 600px;
+        
+    }
+    .bs {
+        background-color:  rgb(45, 77, 182);
+        border: 1px solid  rgb(195, 195, 195);
+        color: white;
+        width: 120px;
+        height: 40px;
+        font-size: 0.9em;
+        font-weight: 500;
+        margin: 15px;
+        box-shadow: 2px 2px rgb(195, 195, 195), 2px 2px rgb(195, 195, 195), 1px 1px  rgb(195, 195, 195);
+    }
+    .bs:hover {
+    opacity: 0.85;
+    }
+  
+    .video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    }
+    
+    .video-container iframe,
+    .video-container object,
+    .video-container embed {
+        position: absolute;
+        top: 15px;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+</style>
+
+<!-- End : Google Analytics Code -->
+<script type="text/javascript" src="../js/hidebib.js"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic'
+rel='stylesheet' type='text/css'>
+
+<head>
+    <title>Self-Supervised Scene Flow Estimation with 4-D Automotive Radar</title>
+    <meta property="og:description" content="Self-Supervised Scene Flow Estimation with 4-D Automotive Radar" />
+    <script src="https://kit.fontawesome.com/6e21e18363.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HHDEXF452"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-6HHDEXF452');
+    </script>
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">
+            <h1>Self-Supervised Scene Flow Estimation with 4-D Automotive Radar</h1>
+        </div>
+
+        <div class="centered">
+            <div class="author-row">
+                <div class="col-5 text-center"><a href="https://toytiny.github.io/">
+                        <p>Fangqiang Ding<sup>1</sup></p>
+                    </a></div>
+                <div class="col-5 text-center"><a href="https://www.researchgate.net/profile/Zhijun-Pan-6/">
+                        <p>Zhijun Pan<sup>1</sup></p>
+                    </a></div>
+                <div class="col-5 text-center"><a
+                        href="https://www.saicmotor.com/english/index.shtml">
+                        <p>Yimin Deng<sup>2</sup></p>
+                    </a></div>
+                <div class="col-5 text-center"><a href="https://christopherlu.github.io/team/">
+                        <p>Jianning Deng<sup>1</sup></p>
+                    </a></div>
+                <div class="col-5 text-center"><a href="https://christopherlu.github.io/">
+                        <p>Chris Xiaoxuan Lu<sup>1</sup></p>
+                    </a></div>
+            </div>
+
+            <div class="affil-row">
+                <div class="col-2 text-center"><a href="https://www.ed.ac.uk/informatics"><p><sup>1</sup>University of Edinburgh</p></a></div>
+                <div class="col-2 text-center"><a href="https://www.saicmotor.com/english/index.shtml"><p><sup>2</sup>SAIC Motor</p></a></div>
+            </div>
+        </div>
+        <p></p>
+        
+        <div class="parent">
+              <a href="https://arxiv.org/pdf/2203.01137.pdf"><button class="bs"><span class="fa fa-file-pdf-o fa-fw"></span> Paper</button></a>
+              <a href="https://github.com/Toytiny/RaFlow"><button class="bs"><span class="fa fa-github fa-fw"></span> Code</button></a>
+              <a href="https://www.youtube.com/watch?v=5_iJCZytrxo"><button class="bs"><span class="fa fa-video fa-fw"></span> Video</button></a>
+        </div>
+        <p></p>
+        <section id="teaser">
+            <a href="model_arch.png">
+                <img class="centered" width="100%" src="model_arch.png">
+            </a>
+            <p class="caption">
+                Our model architecture is composed of the Radar-Oriented Flow Estimation (ROFE) module and Static Flow Refinement (SFR) module. 
+                ROFE module consumes two consecutive 4D radar point clouds and outputs a coarse scene flow. The SFR module first generates a static mask
+                and then estimates a rigid ego-motion transformation used to refine the static flow vectors. The entire model can be trained end-to-end with our proposed novel self-supervised losses.
+            </p>
+        </section>
+
+        <h2>Abstract</h2>
+        <hr>
+        <div class="flex-row">
+                <div style="width: 55%">
+                    <section id="abstract">
+                    Scene flow allows autonomous vehicles to reason about the arbitrary motion of multiple independent objects which is the key to long-term mobile autonomy. 
+                    While estimating the scene flow from LiDAR has progressed recently, it remains largely unknown how to estimate the scene flow from a 4-D radar - 
+                    an increasingly popular automotive sensor for its robustness against adverse weather and lighting conditions. Compared with the LiDAR point clouds, 
+                    radar data are drastically sparser, noisier and in much lower resolution. Annotated datasets for radar scene flow are also in absence and costly to acquire in the real world. 
+                    These factors jointly pose the radar scene flow estimation as a challenging problem. This work aims to address the above challenges and estimate scene flow from 4-D radar point clouds by leveraging self-supervised learning. 
+                    A robust scene flow estimation architecture and three novel losses are bespoken designed to cope with intractable radar data. 
+                    Real-world experimental results validate that our method is able to robustly estimate the radar scene flow in the wild and effectively supports the downstream task of motion segmentation.
+                    </section>
+                </div>
+                <div style="width: 45%">
+                    <section id="abstract">
+                        <figure style="padding-left: 24px; padding-top: 8px; margin-bottom: 0">
+                            <img width="100%" src="input.png">
+                            <p class="caption">
+                            Visualization of the 6-dim measurements of a 4D radar point cloud, including the 3D positional information, relative radial velocity (RRV), radar cross section (RCS) and Power measurements. 
+                            RRV characterises the instant motion level of the objects in the scene relative to the ego-vehicle while RCS and Power measurement characterise 
+                            the reflectivity of those objects in different aspects.
+                            </p>
+                        </figure>
+                    </section>
+                </div>
+        </div>
+
+       
+
+    <h2>Qualitative results</h2>
+    <hr>
+
+    <section id="qualitative results">
+    For evaluation, we collect an inhouse dataset by driving a vehicle in the wild for 43km. Our model is trained end-to-end in a self-supervised setting
+    on the unannotated training set and is evaluated on the testing set. Visualization of our scene flow estimation and motion segmentation results on the inhouse dataset
+    can be seen below.
+    </section>
+
+    <br>
+    <h3>Scene Flow Estimation</h3>
+    <a href="supply_qual.png">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="80%" src="supply_qual.png">
+        <p class="caption">
+        Scene flow estimation visualization. The left figures are the corresponding
+        images captured by the camera. Points from the first frame and the second frame are coloured blue and
+        magenta respectively, while the warped point cloud is shown in green.
+        Yellow circles denote the zooming-in operation. Generally, the green points should be closer to the magenta points if the scene flow is accurately predicted. 
+        </p>
+    </a>
+    <br>
+    <h3>Motion Segmentation</h3>
+    <a href="supply_qual.png">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="80%" src="motion_seg.png">
+        <p class="caption">
+        Visualization of motion segmentation results. The left column shows our
+        prediction while the right column is the ground truth. Moving and stationary points
+        are rendered as pink and teal, respectively. Note that this is non-trivial as the
+        ego-vehicle is also moving in both two scenes. 
+        </p>
+    </a>
+
+    <br>
+    <h2>Demo Video</h2>
+    <hr>
+    <section id="demo video">
+    We also run our method on the publicly available <a href="https://arxiv.org/pdf/2203.01137.pdf">View-of-Delft</a> dataset and make a demo video showing our qualitative results.
+    The top row shows the corresponding RGB image with radar points projected onto it. The bottom row shows radar points in BEV and decorate points with different colours denoting the scene flow magnitude and direction.
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0NfEuH8tD6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    </section>
+    </div>
+
+    
+    <div class="container">
+        <br>
+        <h2>Citation</h2>
+            <hr>
+        <section id="bibtex">
+            <pre><code>@article{ding2022raflow, 
+        author={Ding, Fangqiang and Pan, Zhijun and Deng, Yimin and Deng, Jianning and Lu, Chris Xiaoxuan}, 
+        journal={IEEE Robotics and Automation Letters},  
+        title={Self-Supervised Scene Flow Estimation with 4-D Automotive Radar},   
+        year={2022}, 
+        volume={7}, 
+        number={3}, 
+        pages={8233-8240}, 
+        doi={10.1109/LRA.2022.3187248}
+        }</code></pre>
+        </section>
+
+        <br>
+        <h2>Acknowledgments</h2>
+        <hr>
+        <section id="acknowledgements">
+        This research is supported by the EPSRC, as part of the CDT in Robotics and Autonomous Systems at Heriot-Watt University and The University of Edinburgh (EP/S023208/1).
+        <br>
+        </section>
+    </div>
+</body>
+
+</html>

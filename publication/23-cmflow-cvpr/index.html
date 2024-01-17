@@ -1,0 +1,444 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+    google.load("jquery", "1.3.2");
+</script>
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<style type="text/css">
+    body {
+        font-family: "Titillium Web", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1200px;
+    }
+    
+    a:link,
+    a:visited {
+        color: #1F407A;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: #1269B0;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4 {
+        text-align: center;
+    }
+    
+    h1 {
+        font-weight: 450;
+        line-height: 1.15em;
+    }
+    
+    h2 {
+        font-size: 1.75em;
+        font-weight: 200;
+        margin: 16px 0px 4px 0px;
+    }
+    
+    h3 {
+        font-weight: 300;
+        font-size: 1.15em;
+    }
+    
+    h4 {
+        font-weight: 400;
+        font-size: 1em;
+    }
+    
+    .title {
+        padding: 20px 0px 20px 0px;
+    }
+    
+    section {
+        margin: 16px 0px 16px 0px;
+        text-align: justify;
+        clear: both;
+        line-height: 1.25em;
+    }
+    
+    .author-row {
+        font-size: 20px;
+    }
+    
+    .affil-row {
+        font-size: 22px;
+    }
+    
+    .teaser {
+        max-width: 100%;
+    }
+    
+    .text-center {
+        text-align: center;
+    }
+    
+    .screenshot {
+        width: 256px;
+        border: 1px solid #ddd;
+    }
+    
+    .screenshot-el {
+        margin-bottom: 16px;
+    }
+    
+    hr {
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #ddd;
+        margin: 0;
+    }
+    
+    .material-icons {
+        vertical-align: -6px;
+    }
+    
+    p {
+        line-height: 1.25em;
+    }
+    
+    .caption {
+        font-size: 14px;
+        /*font-style: italic;*/
+        color: #666;
+        text-align: left;
+        margin-top: 6px;
+        margin-bottom: 8px;
+    }
+    
+    figure {
+        display: block;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    #bibtex pre {
+        font-size: 14px;
+        background-color: #eee;
+        padding: 16px;
+    }
+    
+    .flex-row {
+        display: flex;
+        padding-top: 0px;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        line-height: 1.25em;
+    }
+    
+    .paper-btn {
+        position: relative;
+        text-align: center;
+        display: block;
+        margin: 30px auto;
+        padding: 8px 8px;
+        border-width: 0;
+        outline: none;
+        border-radius: 2px;
+        background-color: #2269a0;
+        color: #d5e9ee !important;
+        font-size: 20px;
+        width: 100px;
+        font-weight: 600;
+    }
+    
+    .paper-btn:hover {
+        opacity: 0.85;
+    }
+    
+    .container {
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 16px;
+        padding-right: 16px;
+        width: 1000px;
+        text-align: center;
+    }
+    
+    .col-5 {
+        width: 20%;
+        float: left;
+    }
+    .col-4 {
+        width: 25%;
+        float: left;
+    }
+    
+    .col-3 {
+        width: 33%;
+        float: left;
+    }
+    
+    .col-2 {
+        width: 50%;
+        float: left;
+    }
+    
+    .author-row p {
+        text-align: center;
+        line-height: 0px;
+    }
+    
+    .author-row img {
+        width: 57%;
+        border-radius: 100%;
+    }
+    
+    .author-row,
+    .affil-row {
+        overflow: auto;
+        margin-top: 10px;
+    }
+    
+    .glb-row {
+        overflow: auto;
+        margin-top: 20px;
+        width: 1200px;
+    }
+    
+    .centered {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .button_row {
+        display: flex;
+        width: 600px;
+    }
+    
+    .bs {
+        background-color: rgb(45, 77, 182);
+        border: 1px solid rgb(195, 195, 195);
+        color: white;
+        width: 120px;
+        height: 40px;
+        font-size: 0.9em;
+        font-weight: 500;
+        margin: 15px;
+        box-shadow: 2px 2px rgb(195, 195, 195), 2px 2px rgb(195, 195, 195), 1px 1px rgb(195, 195, 195);
+    }
+    
+    .bs:hover {
+        opacity: 0.85;
+    }
+</style>
+
+<!-- End : Google Analytics Code -->
+<script type="text/javascript" src="../js/hidebib.js"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic'
+rel='stylesheet' type='text/css'>
+
+<head>
+    <title>Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision</title>
+    <meta property="og:description" content="Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision" />
+    <script src="https://kit.fontawesome.com/6e21e18363.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HHDEXF452"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-6HHDEXF452');
+    </script>
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">
+            <h1>Hidden Gems: 4D Radar Scene Flow Learning Using<br/>
+            Cross-Modal Supervision</h1>
+        </div>
+
+        <div class="centered">
+            <div class="author-row">
+                <div class="col-4 text-center">
+                    <a href="https://toytiny.github.io/"><img src="authors/fangqiang_ding.png">
+                        <p>Fangqiang Ding<sup>1</sup></p>
+                    </a>
+                </div>
+                <div class="col-4 text-center">
+                    <a href="https://scholar.google.com/citations?user=_IIml4sAAAAJ&hl=en"><img src="authors/andras_palffy.png">
+                        <p>Andras Palffy<sup>2</sup></p>
+                    </a>
+                </div>
+                <div class="col-4 text-center">
+                    <a href="http://www.gavrila.net/"><img src="authors/dariu_gavrila.png">
+                        <p>Dariu M. Gavrila<sup>2</sup></p>
+                    </a>
+                </div>
+                <div class="col-4 text-center">
+                    <a href="https://christopherlu.github.io/"><img src="authors/chris_lu.png"><br>
+                        <p>Chris Xiaoxuan Lu<sup>1</sup></p>
+                    </a>
+                </div>
+            </div>
+            <div class="affil-row">
+                <div class="col-2 text-center"><a href="https://maps-lab.github.io/"><p><sup>1</sup>University of Edinburgh</p></a></div>
+                <div class="col-2 text-center"><a href="https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/people/intelligent-vehicles"><p><sup>2</sup>Delft University of Technology</p></a></div>
+            </div>
+            <div class="conference-row">
+                <div class="col-1 text-center">
+                    <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a>
+                </div>
+            </div>
+        </div>
+        <p></p>
+        
+        <div class="parent">
+              <a href="https://arxiv.org/pdf/2303.00462.pdf"><button class="bs"><span class="fa fa-file-pdf-o fa-fw"></span> Paper</button></a>
+              <a href="https://github.com/Toytiny/CMFlow"><button class="bs"><span class="fa fa-github fa-fw"></span> Code</button></a>
+              <a href="https://www.youtube.com/watch?v=hHgzBhy6NVQ&feature=youtu.be"><button class="bs"><span class="fa fa-video fa-fw"></span> Video</button></a>
+              <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Ding_Hidden_Gems_4D_CVPR_2023_supplemental.pdf"><button class="bs"><span class="fa fa-file-pdf-o fa-fw"></span> Supp</button></a>
+        </div>
+        <p></p>
+        <h2>Presentation Video</h2>
+        <hr>
+        <br>
+        <iframe width="840" height="472" src="https://www.youtube.com/embed/hHgzBhy6NVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Demo Video</h2>
+        <hr>
+        <br>
+        <iframe width="840" height="472" src="https://www.youtube.com/embed/PjKgznDizhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Pipeline</h2>
+        <hr>
+        <section id="teaser">
+            <a href="model_arch.png">
+                <img class="centered" width="100%" src="pipeline_cvpr.png">
+            </a>
+            <p class="caption">
+            Figure 1. Cross-modal supervised learning pipeline for 4D radar scene flow estimation. 
+            Given two consecutive radar point clouds as the input, the model architecture,
+             which is composed of two stages (blue/orange block colours for stage 1/2), 
+             outputs the final scene flow together with the motion segmentation and a rigid ego-motion 
+             transformation. Cross-modal supervision signals retrieved from co-located modalities, i.e., LiDAR, RGB camera and odometer, 
+             are utilized to constrain outputs with various loss functions. This essentially leads 
+             to a multi-task learning problem.
+            </p>
+        </section>
+
+        <h2>Abstract</h2>
+        <hr>
+        <div class="flex-row">
+                <div style="width: 55%">
+                    <section id="abstract">
+                    This work proposes a novel approach to 4D radar-based scene flow estimation via cross-modal learning. 
+                    Our approach is motivated by the co-located sensing redundancy in modern autonomous vehicles. 
+                    Such redundancy implicitly provides various forms of supervision cues to the radar scene flow 
+                    estimation. Specifically, we introduce a multi-task model architecture for the identified 
+                    cross-modal learning problem and propose loss functions to opportunistically engage scene flow 
+                    estimation using multiple cross-modal constraints for effective model training. 
+                    Extensive experiments show the state-of-the-art performance of our method and demonstrate the 
+                    effectiveness of cross-modal supervised learning to infer more accurate 4D radar scene flow. 
+                    We also show its usefulness to two subtasks - motion segmentation and ego-motion estimation.
+                    </section>
+                </div>
+                <div style="width: 45%">
+                    <section id="abstract">
+                        <figure style="padding-left: 24px; padding-top: 8px; margin-bottom: 0">
+                            <img width="100%" src="openfig.png">
+                            <p class="caption">
+                            Figure 2. Cross-modal supervision cues are retrieved from co-located odometer, LiDAR and camera sensors to benefit 4D radar
+                            scene flow learning. The source point cloud (red) is warped with
+                            our estimated scene flow and gets closer to the target one (blue).
+                            </p>
+                        </figure>
+                    </section>
+                </div>
+        </div>
+
+    <h2>Qualitative results</h2>
+    <hr>
+
+    <section id="qualitative results">
+    We evaluate our approach on the public <i>View-of-Delft</i> dataset. Apart from scene flow
+    estimation, our multi-task model can also predict a motion segmentation and an ego-motion rigid transformation as by-products.
+    Below are some GIFs showing qualitative results of scene flow estimation and two subtasks. For more results, please see our demo video or supplementary.
+    </section>
+
+    <h3>Scene Flow Estimation</h3>
+    <a href="gifs/scene-flow/gif-1.gif">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="100%" src="gifs/scene-flow/gif-1.gif"></img>
+    </a>
+    <a href="gifs/scene-flow/gif-2.gif">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="100%" src="gifs/scene-flow/gif-2.gif"></img>
+    </a>
+    <p class="caption">
+        Scene flow estimation visualization. The left videos are the corresponding
+        images captured by the camera with radar points projected to them. 
+        The middle and right columns shows our estimated and ground truth scene flow in the Bird's Eye View (BEV). 
+        Color of points in the BEV images represents the magnitude and direction of scene flow vectors. 
+        See the color wheel legend in the bottom right.
+    </p>
+
+    <h3>Motion Segmentation</h3>
+    <a href="gifs/motion-seg/gif-1.gif">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="100%" src="gifs/motion-seg/gif-1.gif">
+    </a>
+    <a href="gifs/motion-seg/gif-2.gif">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="100%" src="gifs/motion-seg/gif-2.gif">
+    </a>
+    <p class="caption">
+    Visualization of motion segmentation results. The left column shows 
+    radar points from the source frame projected to the corresponding RGB image. Another two columns
+    shows our and groud truth motion segmentation results on the BEV, where moving and stationary points are rendered as orange and blue, respectively. 
+    </p>
+    <h3>Ego-motion Estimation</h3>
+    <a href="gifs/ego-motion/gif-1.gif">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="80%" src="gifs/ego-motion/gif-1.gif">
+    </a>
+    <a href="gifs/ego-motion/gif-2.gif">
+        <figure style= margin-bottom: 0"></figure>
+        <img class="centered" width="80%" src="gifs/ego-motion/gif-2.gif">
+    </a>
+    <p class="caption">
+    Qualitative results of ego-motion estimation. The left compares our odometry results as a byproduct of our approach and the results from ICP. The ground truth is generated using the RTK-GPS/IMU
+    measurements. The right columns shows the correponding scene flow estimation. We plot the results on two challenging test sequences.
+    </p>
+    
+
+    <div class="container">
+        <br>
+        <h2>Citation</h2>
+            <hr>
+        <section id="bibtex">
+            <pre><code>@InProceedings{Ding_2023_CVPR,
+                author    = {Ding, Fangqiang and Palffy, Andras and Gavrila, Dariu M. and Lu, Chris Xiaoxuan},
+                title     = {Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision},
+                booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+                month     = {June},
+                year      = {2023},
+                pages     = {9340-9349}
+            }
+            }</code></pre>
+        </section>
+
+        <br>
+        <h2>Acknowledgments</h2>
+        <hr>
+        <section id="acknowledgements">
+        This research is supported by the EPSRC, as part of the CDT in Robotics and Autonomous Systems at Heriot-Watt University and The University of Edinburgh (EP/S023208/1).
+        <br>
+        </section>
+    </div>
+</body>
+
+</html>
