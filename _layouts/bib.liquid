@@ -22,7 +22,7 @@
               <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
               {%- else -%}
               {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
-              {% include figure.html
+              {% include figure.liquid
               path=entry_path
               class="preview z-depth-1 rounded"
               alt=entry.preview -%}
@@ -67,7 +67,7 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
-            <em>{{author.first}} {{author.last}}</em>
+            <em>{{- author.first}} {{author.last -}}</em>
           {%- else -%}
             {%- if coauthor_url -%}
               <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
