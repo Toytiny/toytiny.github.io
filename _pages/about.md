@@ -2,13 +2,15 @@
 layout: about
 title: About
 permalink: /
-description: PhD Candidate @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank">School of Informatics</a>, 
+subtitle: PhD Candidate @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank">School of Informatics</a>, 
   <a href="https://www.ed.ac.uk" target="_blank">University of Edinburgh</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: <p>Pentland Hills, 2023</p>
+  image_circular: false # crops the image to make it circular
+  address: >
+    Pentland Hills, 2023
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
