@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: PhD Candidate @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank">School of Informatics</a>, 
   <a href="https://www.ed.ac.uk" target="_blank">University of Edinburgh</a> 
