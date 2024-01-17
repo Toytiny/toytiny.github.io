@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://toytiny.github.io//al-folio/sitemap.xml
+Sitemap: https://toytiny.github.io//sitemap.xml
