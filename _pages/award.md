@@ -13,6 +13,7 @@ navigation_weight: 40
     - China National Scholarship (top 1%), 2019
     - China National Scholarship (top 1%), 2018
 - **Honours**
+    - CVPR 2023 Highlight Paper (top 2.6%), 2023
     - Shanghai Outstanding Graduate (top 2%), 2021
     - Academic Star of Tongji University (top 10), 2020
     - Tongji Outstanding Student, 2019
