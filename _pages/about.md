@@ -24,9 +24,9 @@ Before coming to Edinburgh, I received my B.Eng degree with the highest honour -
 
 <!-- where I worked in the <a href="https://vision4robotics.github.io/" target="_blank">V4R lab</a> under the supervision of <a href="https://www.researchgate.net/profile/Changhong-Fu" target="_blank">Dr. Changhong Fu</a>. In August 2020, I visited Tsinghua University and conducted on-site research under the supervison of <a href="https://ieeexplore.ieee.org/author/38237039900" target="_blank">Dr. Geng Lu</a>.  -->
 👉 I am looking for self-motivated UG/Ms students to work with on **cutting-edge** research projects on 
--  **Thermal Camera-based Scene Completion for Autonomous Driving**  
--  **mmWave Modality Comprehension with Large Language Model**
--  **Multi-Modal Dataset for Versatile Perception of Embodied AI**
+-  Thermal Camera-based Scene Completion for Autonomous Driving  
+-  mmWave Modality Comprehension with Large Language Model
+-  Multi-Modal Dataset for Versatile Perception of Embodied AI
 
 Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available. 
 
