@@ -23,6 +23,11 @@ I am a third-year PhD student (since Fall 2021) from the <a href="https://maps-l
 Before coming to Edinburgh, I received my B.Eng degree with the highest honour - <a href="https://news.tongji.edu.cn/info/1003/76035.htm?ivk_sa=1023197a" target="_blank" rel="noopener">Academic Star</a> in 2020 from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a> (2017-2021).
 
 <!-- where I worked in the <a href="https://vision4robotics.github.io/" target="_blank">V4R lab</a> under the supervision of <a href="https://www.researchgate.net/profile/Changhong-Fu" target="_blank">Dr. Changhong Fu</a>. In August 2020, I visited Tsinghua University and conducted on-site research under the supervison of <a href="https://ieeexplore.ieee.org/author/38237039900" target="_blank">Dr. Geng Lu</a>.  -->
-👉 I am looking for self-motivated UG/Ms students to work with on **cutting-edge** research projects on **AVs perception**, **multi-modal LLM** and **robot navigation**. Support in the form of computational and sensory tools, alongside practical supervision and direction, is available. 
+👉 I am looking for self-motivated UG/Ms students to work with on **cutting-edge** research projects on 
+-  **Thermal Camera-based Scene Completion for Autonomous Driving**  
+-  **mmWave Modality Comprehension with Large Language Model**
+-  **Multi-Modal Dataset for Versatile Perception of Embodied AI**
+
+Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available. 
 
 👉 I am actively looking for a research intern position this year. Shoot me an email if you think I am a good fit! 
