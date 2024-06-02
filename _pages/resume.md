@@ -7,4 +7,4 @@ nav: false
 navigation_weight: 80
 ---
 
-**Please download my resume [here](/assets/pdf/Resume_Fangqiang_Ding.pdf).**
+<iframe src="/assets/pdf/Resume_Fangqiang_Ding.pdf" width="600" height="400"></iframe>
