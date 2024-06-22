@@ -10,6 +10,7 @@ navigation_weight: 60
 **I am happy to serve for the CV & Robotics community. Feel free to send me an invitation to review paper if you find me a good fit.**
 
 - Conference Reviewer
+    - Neural Information Processing Systems (NeurIPS)
     - European Conference on Computer Vision (ECCV)
     - IEEE International Conference on Robotics and Automation (ICRA)
     - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
