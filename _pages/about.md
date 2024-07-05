@@ -27,7 +27,6 @@ Before coming to Edinburgh, I received my B.Eng degree with the highest honour -
 -  Thermal Camera-based Scene Completion for Autonomous Driving  
 -  mmWave Modality Comprehension Powered by Large Language Model
 -  Efficient Dynamic Scene Mapping with Tightly Coupled Multi-Modal Fusion
--  
 
 Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available. 
 
