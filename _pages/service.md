@@ -26,4 +26,4 @@ navigation_weight: 60
 
 <!-- - Invited Talk
     - [2023-08-01] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> at New York University (NYU).
-    - [2023-10-07] Research Talk @ the seminar hosted by <a href="http://www.vitalent.se/">Vitalent Consulting AB</a>.  -->
+    - [2023-10-07] Research Talk @ the seminar hosted by Vitalent Consulting AB</a>.  -->
