@@ -26,6 +26,6 @@ navigation_weight: 60
     - Springer Journal of Ambient Intelligence and Humanized Computing (JAIHC)
 
 - Invited Talk
-    - [2024-08] Research Talk @ <a href="http://www.ee.buaa.edu.cn/">School of EE, Beihang University</a>.
+    - [2024-08] Research Talk @ <a href="http://www.ee.buaa.edu.cn/">College of Electronics Information Engineering</a> in Beihang University.
     - [2024-06] Research Talk @ <a href="https://www.zdjszx.com/">Heart of Autonomous Driving (自动驾驶之心)</a> media platform. 
-    - [2023-08] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> in NYU.
+    - [2023-08] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> in New York University.
