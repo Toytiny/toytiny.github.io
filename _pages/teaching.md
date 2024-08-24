@@ -7,7 +7,7 @@ nav: false
 navigation_weight: 50
 ---
 
-**I am looking for undergraduate/master students to work with on interesting research projects. Adequate training and supervision can be provided to help them complete their graduation thesis.**
+**I am looking for self-motivated UG/Ms students to work with on cutting-edge research projects. Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available.**
 
 <section>
   <h4>Teaching Support at U of Edinburgh</h4>
@@ -25,14 +25,10 @@ navigation_weight: 50
 <section>
 <h4>As Co-Supervisor for Bachelor/Master Thesis</h4>
 <ul>
-  <li>
-  Zhen Luo (MRes., 2023). mmWave Scene Flow Estimation for Robust Human Sensing. </li>
-  <li>
-  Zhijun Pan (BSc., 2023). Multi-Object Tracking with 4D Millimeter-Wave Radar. </li>
-  <li>
-  Xuanyu Pan (MSc. 2022). Camera-4D Radar Fusion for Robust 3D Object Deteciton. </li>
-  <li>
-  Nout Cleef (BSc. 2022). 4D Radar-Based 3D Object Detection for Autonomous Vehicles. </li>
+  <li> 2024-25: Ryan Kwok (BSc. @ UoE, 2025), Yichun Xiao (BSc. @ UoE, 2025)  </li>
+  <li> 2023-24: Xiangyu Wen (MRes. @ UoE, 2024), Lawrence Zhu (BSc. @ UoE, 2024), Xinyuan Cui (BSc. @ UoE, 2024), Ruihong Li (MSc. @ UCL, 2024), Yunfan Shi (MSc. @ UCL, 2024) </li>
+  <li> 2022-23: Zhen Luo (MRes. @ UoE, 2023), Zhijun Pan (BSc. @ UoE, 2023) </li>
+  <li> 2021-22: Nout Cleef (BSc. @ UoE, 2022), Xuanyu Pan (MSc. @ UoE, 2022) </li>
 </ul>
 </section>
 

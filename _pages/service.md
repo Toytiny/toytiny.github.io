@@ -10,8 +10,9 @@ navigation_weight: 60
 **I am happy to serve for the CV & Robotics community. Feel free to send me an invitation to review paper if you find me a good fit.**
 
 - Conference Reviewer
-    - Neural Information Processing Systems (NeurIPS)
+    - Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS D&B)
     - European Conference on Computer Vision (ECCV)
+    - Neural Information Processing Systems (NeurIPS)
     - IEEE International Conference on Robotics and Automation (ICRA)
     - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     - ACM SIGGRAPH 
@@ -24,6 +25,7 @@ navigation_weight: 60
     - IEEE Transactions on Intelligent Vehicles (T-IV)
     - Springer Journal of Ambient Intelligence and Humanized Computing (JAIHC)
 
-<!-- - Invited Talk
-    - [2023-08-01] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> at New York University (NYU).
-    - [2023-10-07] Research Talk @ the seminar hosted by Vitalent Consulting AB</a>.  -->
+- Invited Talk
+    - [2024-08] Research Talk @ <a href="http://www.ee.buaa.edu.cn/">School of EE, Beihang University</a>.
+    - [2024-06] Research Talk @ <a href="https://www.zdjszx.com/">Heart of Autonomous Driving (自动驾驶之心)</a> media platform. 
+    - [2023-08] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> in NYU.
