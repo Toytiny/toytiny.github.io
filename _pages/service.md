@@ -30,5 +30,5 @@ navigation_weight: 60
     - [2024-09] Research Talk @ <a href="https://www.3dcver.com/">3DCVer (3D视觉工坊)</a> online community.
     - [2024-08] Research Talk @ <a href="http://www.buaa.edu.cn/">College of Electronics Information Engineering</a> in Beihang University.
     - [2024-06] Research Talk @ <a href="https://www.zdjszx.com/">Heart of Autonomous Driving (自动驾驶之心)</a> media platform. 
-    - [2024-05] Personal Interview @ <a href="https://cvlife.net//">CVlife (计算机视觉life))</a> media platform. 
+    - [2024-05] Personal Interview @ <a href="https://cvlife.net//">CVlife (计算机视觉life)</a> media platform. 
     - [2023-08] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> in New York University.
