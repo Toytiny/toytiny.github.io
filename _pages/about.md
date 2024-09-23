@@ -29,7 +29,7 @@ My research focuses on advancing the robustness, efficiency, and privacy-awarnes
 Before coming to Edinburgh, I received my B.Eng degree with the highest honour - <a href="https://news.tongji.edu.cn/info/1003/76035.htm?ivk_sa=1023197a" target="_blank" rel="noopener">Academic Star</a> and was awarded double National Scholarships from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a> (2017-2021).
 
 <!-- where I worked in the <a href="https://vision4robotics.github.io/" target="_blank">V4R lab</a> under the supervision of <a href="https://www.researchgate.net/profile/Changhong-Fu" target="_blank">Dr. Changhong Fu</a>. In August 2020, I visited Tsinghua University and conducted on-site research under the supervison of <a href="https://ieeexplore.ieee.org/author/38237039900" target="_blank">Dr. Geng Lu</a>.  -->
-👉 I am looking for self-motivated UG/Ms students to work with me my collaborators at UoE/UCL/ETH/MIT/Cisco/NTU on **cutting-edge** research projects, including but not limited to: 
+👉 I am looking for self-motivated UG/Ms students to work with me and my collaborators at UoE/UCL/ETH/MIT/Cisco/NTU on **cutting-edge** research projects, including but not limited to: 
 
 -  **Mapping**: All-day scene completion with thermal imaging for mobile autonomy  
 -  **Scene Understanding**: Robust and low-cost perception enabled by surrounding 4D radars
