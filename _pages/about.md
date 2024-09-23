@@ -22,17 +22,19 @@ I am the final-year PhD student from the School of Informatics, University of Ed
 
 🙏 I will graduate in **Fall 2025** and am actively seeking a postdoctoral or industrial position, starting from my graduation.
 
-My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **embodied AI**. This encompasses applications in mobile robots, autonomous vehicles, IoT and xR-integrated systems, aiming to facilitate their **widespread, long-term and non-intrusive** deployment in the wild. Currently, my works mainly involve the mmWave imaging radar and thermal camera sensors, leveraging their unique sensing resilience to cope with **adverse weather and illumination** conditions in real world. I am also keen to incorporate full-spectral multi-modal fusion into my research field.
+My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **embodied AI**. This encompasses applications in mobile robots, autonomous vehicles, IoT and xR-integrated systems, aiming to facilitate their **widespread, long-term and non-intrusive** deployment in the wild. Currently, my works mainly involve mmWave imaging radar and thermal camera, leveraging their unique sensing resilience to cope with **adverse weather and illumination** conditions in real world. 
+
+<!-- I am also keen to incorporate full-spectral multi-modal fusion into my research field. -->
 
 Before coming to Edinburgh, I received my B.Eng degree with the highest honour - <a href="https://news.tongji.edu.cn/info/1003/76035.htm?ivk_sa=1023197a" target="_blank" rel="noopener">Academic Star</a> and was awarded double National Scholarships from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a> (2017-2021).
 
 <!-- where I worked in the <a href="https://vision4robotics.github.io/" target="_blank">V4R lab</a> under the supervision of <a href="https://www.researchgate.net/profile/Changhong-Fu" target="_blank">Dr. Changhong Fu</a>. In August 2020, I visited Tsinghua University and conducted on-site research under the supervison of <a href="https://ieeexplore.ieee.org/author/38237039900" target="_blank">Dr. Geng Lu</a>.  -->
-👉 I am looking for self-motivated UG/Ms students to work with on **cutting-edge** research projects on 
--  Thermal Camera-based Scene Completion for All-day Mobile Autonomy  
--  mmWave Modality Comprehension Powered by Large Language Model
--  Efficient Dynamic Scene Mapping with Tightly Coupled Multi-Modal Fusion
--  Learning Human Mesh Reconstruction from mmWave Imaging Radar Raw Data
+👉 I am looking for self-motivated UG/Ms students to work on **cutting-edge** research projects with me my collaborators at UoE/UCL/ETH/MIT. 
 
-Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available. 
+-  **Mapping**: All-day scene completion with thermal imaging for mobile autonomy  
+-  **Scene Understanding**: Robust and low-cost enabled by surrounding 4D radars
+-  **Human Motion**: Human motion reconstruction from high-resolution mmWave raw data
+
+Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available. Please send me an email if you are interested.
 
 👉 I am actively looking for a research intern position this year. Shoot me an email if you think I am a good fit! 
