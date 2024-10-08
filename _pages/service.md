@@ -24,7 +24,7 @@ navigation_weight: 60
     - IEEE Transactions on Industrial Informatics (T-II)
     - ACM Transactions on Sensor Networks (TOSN)
     - IEEE Transactions on Intelligent Vehicles (T-IV)
-    - Springer Journal of Ambient Intelligence and Humanized Computing (JAIHC)
+    - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
 
 - Invited Talk/Interview
     - [2024-09] Research Talk @ <a href="https://www.3dcver.com/">3DCVer (3D视觉工坊)</a> online community.
