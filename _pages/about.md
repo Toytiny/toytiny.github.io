@@ -35,6 +35,6 @@ Before coming to Edinburgh, I received my B.Eng degree with the highest honour -
 -  **Scene Understanding**: Robust and low-cost perception enabled by surrounding 4D radars
 -  **Human Motion**: Human motion reconstruction from mmWave raw data via Diffusion
 
-Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available. Please send me an email if you are interested.
+Support in the form of sufficient computational and sensory tools, robot platform, alongside practical supervision and direction, is available. Please send me an email if you are interested.
 
 👉 I am actively looking for a research intern position this year. Shoot me an email if you think I am a good fit! 
