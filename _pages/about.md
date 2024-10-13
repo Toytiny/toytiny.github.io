@@ -34,6 +34,7 @@ Before coming to Edinburgh, I received my B.Eng degree with the highest honour -
 -  **Mapping**: All-day scene completion with thermal imaging for mobile autonomy  
 -  **Scene Understanding**: Robust and low-cost perception enabled by surrounding 4D radars
 -  **Human Motion**: Human motion reconstruction from mmWave raw data via Diffusion
+-  **Representation Learning**: Pre-trained transformer for heterogeneous radar sensors
 
 Support in the form of **sufficient** computational and sensory tools, robot platform, alongside **practical** supervision and direction, is available. Please send me an email if you are interested.
 
