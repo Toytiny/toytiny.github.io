@@ -36,6 +36,6 @@ Before coming to Edinburgh, I received my B.Eng degree with the highest honour -
 -  **Human Motion**: Human motion reconstruction from mmWave raw data via Diffusion
 -  **Representation Learning**: Pre-trained transformer for heterogeneous radar sensors
 
-Support in the form of **sufficient** computational and sensory tools, robot platform, alongside **practical** supervision and direction, is available. Please fill the [form](https://forms.gle/BhKRKaJZDe5LCPtG6) here if you are interested.
+Support in the form of **sufficient** computational and sensory tools, robot platform, alongside **practical** supervision and direction, is available. Please fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSd0AbjaV4_E5Szl7CrddWDnW2DKvdcfLU4FhfxqgITjG04OXQ/viewform?usp=sf_link) here if you are interested.
 
 👉 I am actively looking for a research intern position this year. Shoot me an email if you think I am a good fit! 
