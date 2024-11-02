@@ -24,7 +24,7 @@ I am the final-year PhD student from the School of Informatics, University of Ed
 
 My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **embodied AI**. These efforts support applications in mobile robots, autonomous vehicles, AIoT and xR-integrated systems, aiming to facilitate their **widespread, long-term and non-intrusive** deployment in the wild. Currently, my works mainly involve mmWave imaging radar and thermal camera, leveraging their unique sensing resilience to cope with **adverse weather and illumination** conditions in real world. 
 
-![](../assets/img/research_interest.png)
+<img src="../assets/img/research_interest.png" alt="Sample Figure" width="800">
 
 <!-- I am also keen to incorporate full-spectral multi-modal fusion into my research field. -->
 
