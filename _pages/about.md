@@ -24,6 +24,8 @@ I am the final-year PhD student from the School of Informatics, University of Ed
 
 My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **embodied AI**. These efforts support applications in mobile robots, autonomous vehicles, AIoT and xR-integrated systems, aiming to facilitate their **widespread, long-term and non-intrusive** deployment in the wild. Currently, my works mainly involve mmWave imaging radar and thermal camera, leveraging their unique sensing resilience to cope with **adverse weather and illumination** conditions in real world. 
 
+![](../assets/img/research_interest.png)
+
 <!-- I am also keen to incorporate full-spectral multi-modal fusion into my research field. -->
 
 Before coming to Edinburgh, I received my B.Eng degree with the highest honour - <a href="https://news.tongji.edu.cn/info/1003/76035.htm?ivk_sa=1023197a" target="_blank" rel="noopener">Academic Star</a> and was awarded double National Scholarships from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a> (2017-2021).
