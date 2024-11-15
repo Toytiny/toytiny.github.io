@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar">
+  <meta name="keywords" content="4D Imaging Radar, 3D Occupancy Prediction, Autonomous Driving, Embodied AI">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RadarOcc</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+
+  <link rel="icon" href="./weather.png">
+
+  <meta property="og:site_name" content="RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar" />
+  <meta property="og:type" content="video.other" />
+  <meta property="og:title" content="RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar" />
+  <meta property="og:description" content="by Fangqiang Ding*, Xiangyu Wen*, Yunzhou Zhu, Yiming Li and Chris Xiaoxuan Lu" />
+  <meta property="og:url" content="https://toytiny.github.io/publication/24-radarocc-neurips/index.html" />
+  <meta property="og:image" content="https://toytiny.github.io/publication/24-radarocc-neurips/preview.gif" />
+  <meta property="og:image:secure" content="https://toytiny.github.io/publication/24-radarocc-neurips/static/images/preview.gif" />
+  <meta property="og:video" content="" />
+  <meta property="og:video:secure" content="" />
+  <meta property="og:image:width" content="1280" />
+  <meta property="og:image:height" content="720" />
+
+  <meta property="article:publisher" content="https://toytiny.github.io/publication/24-radarocc-neurips/index.html" />
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+
+
+<body>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-two-thirds is-centered has-text-centered">
+          <h1 class="title is-1 publication-title">RadarOcc</h1>
+          <h2 class="subtitle is-2 publication-subtitle">Robust 3D Occupancy Prediction with 4D Imaging Radar</h2>
+          <h1 style="font-size:1.5rem">NeurIPS 2024<br></h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://toytiny.github.io/">Fangqiang Ding</a><sup>*1</sup>&nbsp;&nbsp;&nbsp;
+              <a href="https://scholar.google.com/citations?user=WxgdNyAAAAAJ&hl=en">Xiangyu Wen</a><sup>*1</sup>&nbsp;&nbsp;&nbsp;
+              <a href="https://lawrencez22.github.io/">Yunzhou Zhu</a><sup>2</sup>&nbsp;&nbsp;&nbsp;
+              <a href="https://yimingli-page.github.io/">Yiming Li</a><sup>3</sup>&nbsp;&nbsp;&nbsp;
+              <a href="https://christopherlu.github.io/">Chris Xiaoxuan Lu</a><sup>4</sup>
+            </span>
+          </div>
+          <div class="is-size-5 publication-authors">
+            <sup>*</sup> Denotes equal contribution
+          </div>
+          <br>
+          <div class="is-size-5 publication-authors">
+            <sup>1</sup> <a href="https://www.inria.fr/"><img style="height:50px; padding-right: 15px;" src="./static/images/uoe.png"> </a>
+            <sup>2</sup> <a href="https://univ-cotedazur.eu/"><img style="height:50px; padding-right: 15px;" src="./static/images/gtech.png"> </a>
+            <sup>3</sup> <a href="https://www.mpi-inf.mpg.de"><img style="height:50px; padding-right: 15px;" src="./static/images/nyu.png"> </a>
+            <sup>4</sup> <a href="https://www.mpi-inf.mpg.de"><img style="height:50px; padding-right: 15px;" src="./static/images/ucl.png"> </a>
+          </div>
+          <br>
+          <div>
+            <div class="publication-links">
+              <!-- arXiv Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2405.14014"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <span class="link-block">
+                <a href="https://recorder-v3.slideslive.com/#/share?share=95505&s=cfe10684-4448-4e15-8277-a7e18080730f"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/Toytiny/RadarOcc" class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <svg class="svg-inline--fa fa-github fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="github" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg><!-- <i class="fab fa-github"></i> Font Awesome fontawesome.com -->
+                  </span>
+                  <span>Code</span>
+                </a>
+              </span>
+              <!-- Demo Link. -->
+               <span class="link-block">
+                <a href="https://github.com/Toytiny/RadarOcc" class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                    <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Demo</span>
+                </a>
+              </span>
+               <!-- Slides Link. -->
+               <span class="link-block">
+                <a href="https://nips.cc/media/neurips-2024/Slides/96791.pdf"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                   <span class="icon">
+                    <i class="fas fa-file-pdf"></i>
+                   </span>
+                  <span>Slides</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+     
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-two-thirds">
+        <h2 class="title is-2">Pipeline</h2>
+        <div class="content has-text-justified">
+          <image src="./static/images/pipeline_fig_2.png" style="width: 100%;"></image>
+          <p>
+            Overall pipeline of RadarOcc. The data volume reduction pre-processes the 4DRT into a lightweight sparse RT via Doppler 
+            bins encoding and sidelobe-aware spatial sparifying. We apply spherical-based feature encoding on the sparse RT and aggregate 
+            the spherical features using Cartesian voxel queries. The 3D occupancy volume is finally output via 3D occupancy decoding.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-two-thirds">
+        <h2 class="title is-2">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            3D occupancy-based perception pipeline has significantly advanced autonomous driving by capturing detailed scene descriptions 
+            and demonstrating strong generalizability across various object categories and shapes. Current methods predominantly rely on 
+            iDAR or camera inputs for 3D occupancy prediction. These methods are susceptible to adverse weather conditions, limiting the 
+            all-weather deployment of self-driving cars. 
+            To improve perception robustness, we leverage the recent advances in automotive radars 
+            and introduce a novel approach that utilizes 4D imaging radar sensors for 3D occupancy prediction. Our method, RadarOcc, circumvents 
+            the limitations of sparse radar point clouds by directly processing the 4D radar tensor, thus preserving essential scene details. 
+            RadarOcc innovatively addresses the challenges associated with the voluminous and noisy 4D radar data by employing Doppler bins descriptors, 
+            sidelobe-aware spatial sparsification, and range-wise self-attention mechanisms. To minimize the interpolation errors associated with 
+            direct coordinate transformations, we also devise a spherical-based feature encoding followed by spherical-to-Cartesian feature aggregation.
+            We benchmark various baseline methods based on distinct modalities on the public K-Radar dataset. The results demonstrate RadarOcc’s 
+            state-of-the-art performance in radar-based 3D occupancy prediction and promising results even when compared with LiDARor camera-based 
+            methods. Additionally, we present qualitative evidence of the superior performance of 4D radar in adverse weather conditions and explore 
+            the impact of key pipeline components through ablation studies.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container">
+    <h2 class="title is-2" style="text-align: center;">Performance under normal weather</h2>
+    <div class="columns is-centered">
+    <div class="column is-8">
+      <p style="margin: 0 auto; text-align: justify;">
+        Here are some GIFs showing our qualitative results on 3D occupancy prediction under normal weather. Foreground voxels are colored as <span style="color: red;">red</span> while background voxels are <span style="color:#8cc985;">green</span>. Correponding RGB videos are shown for refenrence.
+      </p>
+    </div>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-two-fifths has-text-centered">
+        <image src="./resources/radarocc_gif_demo_daylight.gif" style="width: 100%;"></image>
+      </div>
+      <div class="column is-two-fifths has-text-centered">
+        <image src="./resources/radarocc_gif_demo_night.gif" style="width: 100%;"></image>
+      </div>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-two-fifths has-text-centered">
+        <image src="./resources/radarocc_gif_demo_night2.gif" style="width: 100%;"></image>
+      </div>
+      <div class="column is-two-fifths has-text-centered">
+        <image src="./resources/radarocc_gif_demo_dusk.gif" style="width: 100%;"></image>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <h2 class="title is-2" style="text-align: center;">Performance under adverse weather</h2>
+    <div class="columns is-centered">
+    <div class="column is-8">
+      <p style="margin: 0 auto; text-align: justify;">
+        Here are some GIFs showing our qualitative results under adverse weather. For the second and third demo, LiDAR-based OpenOccupancy and stereo image-based SurroundOcc
+        are used for inter-modality comparison. 
+      </p>
+    </div>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-two-thirds is-centered has-text-centered">
+        <image src="./resources/radarocc_gif_demo_snow.gif" style="width: 100%;"></image>
+      </div>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-two-thirds is-centered has-text-centered">
+        <image src="./resources/radarocc_gif_demo_modality_cut.gif" style="width: 100%;"></image>
+      </div>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-two-thirds is-centered has-text-centered">
+        <image src="./resources/radarocc_gif_demo_modality_2_cut.gif" style="width: 100%;"></image>
+      </div>
+    </div>
+    </div>
+   
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-two-thirds">
+        <h2 class="title is-2">Acknowledgements</h2>
+        <div class="content has-text-justified">
+          <p>
+            This research is partially supported by the Engineering and Physical Sciences Research Council
+            (EPSRC) under the Centre for Doctoral Training in Robotics and Autonomous Systems at the
+            Edinburgh Centre of Robotics (EP/S023208/1).
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="BibTeX">
+  <div class="container content">
+    <h2 class="titile">BibTeX</h2>
+    <pre><code>@article{Ding_2024_NeurIPS,
+      title={Robust 3D Occupancy Prediction with 4D Imaging Radar},
+      author={Ding, Fangqiang and Wen, Xiangyu and Zhu, Yunzhou and and Li, Yiming and Lu, Chris Xiaoxuan},
+      journal={Advances in Neural Information Processing Systems (NeurIPS)},
+      year={2024}
+    }</code></pre>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>Page template borrowed from <a href="https://nerfies.github.io/"><span class="dnerf">Nerfies</span></a> and <a href="https://robot-parkour.github.io/"><span class="dnerf">Robot-Parkour</span></a>.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
