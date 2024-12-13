@@ -10,7 +10,8 @@ navigation_weight: 60
 **I am happy to serve for the CV & Robotics community. Feel free to send me an invitation to review paper if you find me a good fit.**
 
 - Conference Reviewer
-    - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) i
+    - International Conference on Machine Learning (ICML)
+    - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
     - International Conference on Learning Representations (ICLR)
     - Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS D&B)
     - European Conference on Computer Vision (ECCV)
