@@ -7,7 +7,7 @@ subtitle: PhD Candidate @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank"
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: prof_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     Research Talk, 2024
