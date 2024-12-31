@@ -7,10 +7,10 @@ subtitle: PhD Candidate @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Pentland Hills, 2023
+    Research Talk, 2024
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
