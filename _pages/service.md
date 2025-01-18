@@ -23,6 +23,7 @@ navigation_weight: 60
     - IEEE International Conference on Multimedia & Expo (ICME) 
 
 - Journal Reviewer
+    - IEEE Transactions on Robotics (T-RO)
     - IEEE Robotics and Automation Letters (RA-L)
     - IEEE Transactions on Industrial Informatics (T-II)
     - ACM Transactions on Sensor Networks (TOSN)
