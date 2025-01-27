@@ -9,6 +9,8 @@ navigation_weight: 60
 
 **I am happy to serve for the CV & Robotics community. Feel free to send me an invitation to review paper if you find me a good fit.**
 
+- Conference Editor
+    - Associate Editor (AE) for IROS 2025.
 - Conference Reviewer
     - Robotics: Science and Systems (RSS)
     - International Conference on Machine Learning (ICML)
