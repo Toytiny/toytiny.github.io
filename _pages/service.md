@@ -12,6 +12,7 @@ navigation_weight: 60
 - Conference Editor
     - Associate Editor (AE) for IROS 2025.
 - Conference Reviewer
+    - International Conference on Computer Vision (ICCV)
     - Robotics: Science and Systems (RSS)
     - International Conference on Machine Learning (ICML)
     - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
@@ -22,7 +23,6 @@ navigation_weight: 60
     - IEEE International Conference on Robotics and Automation (ICRA)
     - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     - ACM SIGGRAPH 
-    - IEEE International Conference on Multimedia & Expo (ICME) 
 
 - Journal Reviewer
     - IEEE Transactions on Robotics (T-RO)
