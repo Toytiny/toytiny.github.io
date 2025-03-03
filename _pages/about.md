@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 0
 ---
 <h2>about me</h2>
-I am a final-year PhD student from the School of Informatics, University of Edinburgh, sponsored by the <a href="https://www.edinburgh-robotics.org/" target="_blank">EPSRC CDT in Robotics and Autonomous Systems</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Prof. Chris Xiaoxuan Lu</a> and <a href="https://homepages.inf.ed.ac.uk/bwebb/" target="_blank">Prof. Barbara Webb</a>. 
+I am a final-year PhD student from the School of Informatics, University of Edinburgh, sponsored by the <a href="https://www.edinburgh-robotics.org/" target="_blank">EPSRC CDT in Robotics and Autonomous Systems</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a> and <a href="https://homepages.inf.ed.ac.uk/bwebb/" target="_blank">Prof. Barbara Webb</a>. 
 
 🙏 I will graduate in **Summer 2025** and am actively seeking a postdoctoral or industrial position, starting from my graduation.
 
