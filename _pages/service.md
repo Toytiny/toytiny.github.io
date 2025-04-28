@@ -33,6 +33,7 @@ navigation_weight: 60
     - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
 
 - Invited Talk/Interview
+    - [2025-04] Research Talk @ <a href="http://english.ia.cas.cn/">Institute of Automation, CAS.
     - [2024-12] Research Talk @ <a href="https://fc.ustc.edu.cn/2024/1227/c14587a670036/pagem.htm">Micius Forum in USTC.
     - [2024-09] Research Talk @ <a href="https://www.3dcver.com/">3DCVer (3D视觉工坊)</a> online community.
     - [2024-08] Research Talk @ <a href="http://www.buaa.edu.cn/">College of Electronics Information Engineering</a> in Beihang University.
