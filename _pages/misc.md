@@ -13,7 +13,7 @@ children:
     - title: divider
     - title: service
       permalink: /service/
-    - title: divider
-    - title: resume
-      permalink: /resume/
+    # - title: divider
+    # - title: resume
+    #   permalink: /resume/
 ---

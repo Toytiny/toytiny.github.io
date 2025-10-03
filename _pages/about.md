@@ -9,7 +9,7 @@ profile:
   image: prof_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    Research Talk, 2024
+    
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 0
 ---
 <h2>about me</h2>
-I am a Postdoctoral Associate at MIT, advised by <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank">Dr. Hermano Igo Krebs</a>, director of <a href="https://the77lab.mit.edu/" target="_blank">The 77 Lab</a>. Previously, I worked with <a href="https://orlitany.github.io/" target="_blank">Dr. Or Litany</a> as a Research Fellow at Technion. I was honored to be awarded a <a href="https://sites.google.com/view/rsspioneers2025/participants?authuser=0" target="_blank">2025 RSS Pioneer</a> for my work on robust spatial perception with 4D radar for mobile autonomy. I received my PhD degree in Robotics and Autonomous Systems from the School of Informatics, University of Edinburgh, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>, and my B.Eng degree from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a>.
+I am a Postdoctoral Associate at MIT, advised by <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank">Dr. Hermano Igo Krebs</a>, director of <a href="https://the77lab.mit.edu/" target="_blank">The 77 Lab</a>. Before, I worked with <a href="https://orlitany.github.io/" target="_blank">Dr. Or Litany</a> as a Research Fellow at Technion. I was honored to be awarded a <a href="https://sites.google.com/view/rsspioneers2025/participants?authuser=0" target="_blank">2025 RSS Pioneer</a> for my work on robust spatial perception with 4D radar for mobile autonomy. I received my PhD degree in Robotics and Autonomous Systems from the School of Informatics, University of Edinburgh, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>, and my B.Eng degree from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a>.
 
 
 My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **Physical AI**. These efforts support autonomous system like mobile robots, self-driving cars, xR and human-machine interaction systems, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild. 

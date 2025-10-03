@@ -7,7 +7,7 @@ nav: false
 navigation_weight: 60
 ---
 
-**I am happy to serve for the CV & Robotics community. Feel free to send me an invitation to review paper if you find me a good fit.**
+**I am happy to serve for the CV & Robotics & AI community when I am available. Feel free to send me an invitation to review paper if you find me a good fit.**
 
 - Conference Editor
     - Associate Editor (AE) for IROS 2025.
@@ -25,6 +25,7 @@ navigation_weight: 60
     - ACM SIGGRAPH 
 
 - Journal Reviewer
+    - IEEE Transactions on Mobile Computing (T-MC)
     - The International Journal of Robotics Research (IJRR)
     - IEEE Transactions on Robotics (T-RO)
     - IEEE Robotics and Automation Letters (RA-L)
