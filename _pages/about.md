@@ -18,9 +18,8 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 0
 ---
 <h2>about me</h2>
-I am a final-year PhD student from the School of Informatics, University of Edinburgh, sponsored by the <a href="https://www.edinburgh-robotics.org/" target="_blank">EPSRC CDT in Robotics and Autonomous Systems</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a> and <a href="https://homepages.inf.ed.ac.uk/bwebb/" target="_blank">Prof. Barbara Webb</a>. 
+I am a Postdoctoral Research Associate at MIT, advised by <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank">Dr. Hermano Igo Krebs</a>, who is the director of <a href="" target="_blank">The 77 Lab</a>. Before MIT, I worked with Dr. <a href="https://orlitany.github.io/" target="_blank">Or Litany</a> as a Research Fellow at Technion. I achieved my PhD degree from the University of Edinburgh, sponsored by the <a href="https://www.edinburgh-robotics.org/" target="_blank">EPSRC CDT in Robotics and Autonomous Systems</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>. Even earlier, I received my B.Eng degree from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a>.
 
-🙏 I will graduate in **Summer 2025** and am open to the job market.
 
 My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **Physical AI**. These efforts support autonomous system like mobile robots, self-driving cars, AIoT and xR-integrated systems, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild. Currently, my works primarily involve the robust imaging modalities, e.g., mmWave radar and thermal camera, leveraging their unique sensing resilience to cope with **adverse weather, variable illumination and occlusion** challenges in real world. I was honored to be awarded the 2025 **RSS Pioneer** for my research in Robust Spatial Perception with 4D Radar for Mobile Autonomy.
 
@@ -28,7 +27,7 @@ My research focuses on advancing the robustness, efficiency, and privacy-awarnes
 
 <!-- I am also keen to incorporate full-spectral multi-modal fusion into my research field. -->
 
-Before coming to Edinburgh, I received my B.Eng degree with the highest honour - <a href="https://news.tongji.edu.cn/info/1003/76035.htm?ivk_sa=1023197a" target="_blank" rel="noopener">Academic Star</a> and was awarded double National Scholarships from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a> (2017-2021).
+<!-- Before coming to Edinburgh, I received my B.Eng degree with the highest honour - <a href="https://news.tongji.edu.cn/info/1003/76035.htm?ivk_sa=1023197a" target="_blank" rel="noopener">Academic Star</a> and was awarded double National Scholarships from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a> (2017-2021). -->
 
 <!-- where I worked in the <a href="https://vision4robotics.github.io/" target="_blank">V4R lab</a> under the supervision of <a href="https://www.researchgate.net/profile/Changhong-Fu" target="_blank">Dr. Changhong Fu</a>. In August 2020, I visited Tsinghua University and conducted on-site research under the supervison of <a href="https://ieeexplore.ieee.org/author/38237039900" target="_blank">Dr. Geng Lu</a>.  -->
 <!-- 👉 I am looking for self-motivated UG/Ms students to work with me and my collaborators at UoE/UCL/ETH/MIT/Oxford/Cambridge/NTU on **cutting-edge** research projects. -->
