@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank">School of Informatics</a>, 
-  <a href="https://www.ed.ac.uk" target="_blank">University of Edinburgh</a> 
+subtitle: Postdoctoral Associate @ <a href="https://www.mit.edu/" target="_blank">MIT</a> 
 
 profile:
   align: right
@@ -18,10 +17,10 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 0
 ---
 <h2>about me</h2>
-I am a Postdoctoral Research Associate at MIT, advised by <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank">Dr. Hermano Igo Krebs</a>, who is the director of <a href="" target="_blank">The 77 Lab</a>. Before MIT, I worked with Dr. <a href="https://orlitany.github.io/" target="_blank">Or Litany</a> as a Research Fellow at Technion. I achieved my PhD degree from the University of Edinburgh, sponsored by the <a href="https://www.edinburgh-robotics.org/" target="_blank">EPSRC CDT in Robotics and Autonomous Systems</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>. Even earlier, I received my B.Eng degree from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a>.
+I am a Postdoctoral Associate at MIT, advised by <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank">Dr. Hermano Igo Krebs</a>, who is the director of <a href="" target="_blank">The 77 Lab</a>. Before MIT, I worked with Dr. <a href="https://orlitany.github.io/" target="_blank">Or Litany</a> as a Research Fellow at Technion. I was honored to be awarded the 2025 **RSS Pioneer** for my research in Robust Spatial Perception with 4D Radar for Mobile Autonomy. I had my PhD study from the School of Informatics, University of Edinburgh, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>. Even earlier, I received my B.Eng degree from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a>.
 
 
-My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **Physical AI**. These efforts support autonomous system like mobile robots, self-driving cars, AIoT and xR-integrated systems, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild. Currently, my works primarily involve the robust imaging modalities, e.g., mmWave radar and thermal camera, leveraging their unique sensing resilience to cope with **adverse weather, variable illumination and occlusion** challenges in real world. I was honored to be awarded the 2025 **RSS Pioneer** for my research in Robust Spatial Perception with 4D Radar for Mobile Autonomy.
+My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **Physical AI**. These efforts support autonomous system like mobile robots, self-driving cars, AIoT and xR-integrated systems, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild. Currently, my works primarily involve the robust imaging modalities, e.g., mmWave radar and thermal camera, leveraging their unique sensing resilience to cope with **adverse weather, variable illumination and occlusion** challenges in real world. 
 
 <img src="../assets/img/research_interest.png" alt="Sample Figure" width="600">
 
