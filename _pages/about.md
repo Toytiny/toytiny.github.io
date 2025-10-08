@@ -20,7 +20,7 @@ nav_order: 0
 I am a Postdoctoral Associate at MIT, advised by <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank">Dr. Hermano Igo Krebs</a>, director of <a href="https://the77lab.mit.edu/" target="_blank">The 77 Lab</a>. Before MIT, I worked with <a href="https://orlitany.github.io/" target="_blank">Dr. Or Litany</a> at Technion as a Research Fellow. I was honored to be awarded a <a href="https://sites.google.com/view/rsspioneers2025/participants?authuser=0" target="_blank">2025 RSS Pioneer</a> for my work on robust spatial perception with 4D radar for mobile autonomy. I received my PhD degree in Robotics and Autonomous Systems from the School of Informatics, University of Edinburgh, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>, and my B.Eng degree from Tongji University.
 
 
-My research focuses on advancing the robustness, efficiency, and privacy-awarness of perception systems for **Physical AI**. These efforts support autonomous system like mobile robots, self-driving cars, xR and human-machine interaction systems, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild. 
+My research focuses on advancing the robustness, efficiency, and privacy-awarness of spatial perception for **Physical AI** systems. These efforts making AI to better support physical systems such as autonomous vehicles and robots, IoT and xR, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild. 
 
 <img src="../assets/img/research_interest.png" alt="Sample Figure" width="600">
 
