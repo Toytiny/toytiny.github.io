@@ -19,11 +19,7 @@ nav_order: 0
 <h2>about me</h2>
 I am a Postdoctoral Associate at MIT, advised by <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank">Dr. Hermano Igo Krebs</a>, director of <a href="https://the77lab.mit.edu/" target="_blank">The 77 Lab</a>. Before MIT, I worked with <a href="https://orlitany.github.io/" target="_blank">Dr. Or Litany</a> at Technion as a Research Fellow. I was honored to be awarded a <a href="https://sites.google.com/view/rsspioneers2025/participants?authuser=0" target="_blank">2025 RSS Pioneer</a> for my work on robust spatial perception with 4D radar for mobile autonomy. I received my PhD degree in Robotics and Autonomous Systems from the School of Informatics, University of Edinburgh, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>, and my B.Eng degree from Tongji University.
 
-My research centers on **Reliable and Affordable Physical AI**, enabling AI-intergrated physical systems-autonomous vehicles, robots, and IoT-to operate responsibly around people and deliver deliver real-world societal benefit at scale. My current research advance this goal along three key dimensions: 
-
-- **Safety across codnitions:** ensuring robust perforance of physical systems under varied illumination and weathers.
-- **Privacy-aware:** protecting user indentiy and sensitive content in privacy-ciritical applications.
-- **Cost-effectiveness:** refraining from expensive sensor and computers for system build-up and mannual labelling for model training.
+My research centers on **Reliable and Affordable Physical AI**, enabling AI-intergrated *physical* systems (e.g., autonomous vehicles, robots, and IoT) to operate responsibly around human and deliver societal benefit at scale in *physical* world. My current research advances this goal along three key axes: (i) **safety-assured:** achieving robust perforance of physical systems under varied illumination and weathers, (ii) **privacy-aware:** protecting user indentiy and sensitive content in privacy-ciritical applications, (iii) **cost-effective:** reducing reliance on expensive sensor and compute for system build-up and mannual labelling for model training.
 
 
 <!-- 
