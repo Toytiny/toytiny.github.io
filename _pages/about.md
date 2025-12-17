@@ -18,9 +18,35 @@ nav_order: 0
 ---
 <h2>about me</h2>
 
-I am a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https://meche.mit.edu/people/faculty/hikrebs@mit.edu), director of [The 77 Lab](https://the77lab.mit.edu/). Before MIT, I worked with [Dr. Or Litany](https://orlitany.github.io/) at Technion as a Postdoctoral Fellow. I was honored to be awarded a [2025 RSS Pioneer](https://sites.google.com/view/rsspioneers2025/participants?authuser=0) for my work on robust spatial perception for robotics. I received my PhD in Robotics and Autonomous Systems from the School of Informatics, University of Edinburgh, supervised by [Dr. Chris Xiaoxuan Lu](https://christopherlu.github.io/), and my B.Eng. from Tongji University.
+<div style="text-align: justify; text-justify: inter-word;">
+  <p>
+    I am a Postdoctoral Associate at MIT, working with
+    <a href="https://meche.mit.edu/people/faculty/hikrebs@mit.edu" target="_blank" rel="noopener noreferrer">Dr. Hermano Igo Krebs</a>,
+    director of
+    <a href="https://the77lab.mit.edu/" target="_blank" rel="noopener noreferrer">The 77 Lab</a>.
+    Before MIT, I worked with
+    <a href="https://orlitany.github.io/" target="_blank" rel="noopener noreferrer">Dr. Or Litany</a>
+    at Technion as a Postdoctoral Fellow.
+    I was honored to be awarded a
+    <a href="https://sites.google.com/view/rsspioneers2025/participants?authuser=0" target="_blank" rel="noopener noreferrer">2025 RSS Pioneer</a>
+    for my work on robust spatial perception for robotics.
+    I received my PhD in Robotics and Autonomous Systems from the School of Informatics, University of Edinburgh, supervised by
+    <a href="https://christopherlu.github.io/" target="_blank" rel="noopener noreferrer">Dr. Chris Xiaoxuan Lu</a>,
+    and my B.Eng. from Tongji University.
+  </p>
 
-My research centers on *reliable* and *affordable* **Physical AI**, enabling intelligent *physical* systems (e.g., autonomous vehicles, robots, and IoT devices) that perceive, understand, and act in the *physical* world to operate responsibly around humans and deliver societal benefits at scale. My long-term vision is a *human–machine symbiotic ecosystem* where human and physical intelligence coexist harmoniously and foster mutual co-evolution. My current work advances this goal along three key axes: (i) *condition-adaptive* — maintaining robust performance across illumination, weather, and environmental changes; (ii) *privacy-aware* — protecting user identity and sensitive content in privacy-critical applications; (iii) *cost-effective* — reducing reliance on expensive sensors/compute and manual data collection/labeling.
+  <p>
+    My research centers on <em>reliable</em> and <em>affordable</em> <strong>Physical AI</strong>, enabling intelligent
+    <em>physical</em> systems (e.g., autonomous vehicles, robots, and IoT devices) that perceive, understand, and act in the
+    <em>physical</em> world to operate responsibly around humans and deliver societal benefits at scale.
+    My long-term vision is a <em>human–machine symbiotic ecosystem</em> where human and physical intelligence coexist harmoniously
+    and foster mutual co-evolution.
+    My current work advances this goal along three key axes:
+    (i) <em>condition-adaptive</em>: maintaining robust performance across illumination, weather, and environmental changes;
+    (ii) <em>privacy-aware</em>: protecting user identity and sensitive content in privacy-critical applications;
+    (iii) <em>cost-effective</em>: reducing reliance on expensive sensors/compute and manual data collection/labeling.
+  </p>
+</div>
 
 <!-- 
 My research focuses on advancing the robustness, efficiency, and privacy-awarness of spatial perception for **Physical AI** systems. These efforts making AI to better support physical systems such as autonomous vehicles and robots, IoT and xR, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild.  -->
