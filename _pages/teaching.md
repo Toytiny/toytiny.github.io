@@ -24,7 +24,7 @@ navigation_weight: 50
 
 <h4>Mentorship and Advising</h4>
 
-#### Current Students
+##### Current Students
 - **Yuanzhe Liu** — MS student in Data Science, University of Pennsylvania (UPenn)
 - **Liang Wang** — UG student, Chu Kochen Honors College, Zhejiang University (ZJU)
 - **Yichun Xiao** — MS student in Computer Science, University of Edinburgh
@@ -34,7 +34,7 @@ navigation_weight: 50
 - **Tomer Borreda** — MS student in Computer Science, Technion – Israel Institute of Technology
 - **Liuyuan Na** — MPhil student in Engineering, University of Edinburgh
 
-#### Past Students
+##### Past Students
 - **Xiangyu Wen** — now PhD student, University College London (UCL)
 - **Lawrence Yunzhou Zhu** — now Master’s student, Georgia Institute of Technology
 - **Zhekai Duan** — now PhD student, University College London (UCL)
@@ -42,7 +42,7 @@ navigation_weight: 50
 - **Zhen Luo** — now PhD student, Southern University of Science and Technology
 - **Hantao Zhong** — now PhD student, University of Cambridge
 - **Zhijun Pan** — now PhD student, Royal College of Art
-- **Nout Cleef** — graduated as Master’s student, University of Oxford
+- **Nout Cleef** — graduated as MS student from University of Oxford
 - **Guangze Zheng** — now PhD student, University of Hong Kong (HKU)
 - **Teng Li** — now PhD student, Hong Kong Polytechnic University (PolyU)
 - **Bowen Li** — now PhD student, Carnegie Mellon University (CMU)
