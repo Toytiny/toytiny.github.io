@@ -22,7 +22,7 @@ navigation_weight: 50
   </ul>
 </section>
 
-<h4>Mentorship and Advising</h4>
+<h4>Mentorship and Supervision</h4>
 
 ##### Current Students
 - **Yuanzhe Liu** — MS student in Data Science, University of Pennsylvania (UPenn)
