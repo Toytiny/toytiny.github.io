@@ -7,7 +7,7 @@ nav: false
 navigation_weight: 50
 ---
 
-**I am looking for self-motivated UG/Ms students to work with on cutting-edge research projects. Support in the form of computational and sensory tools, robot platform, alongside practical supervision and direction, is available.**
+**I am looking for self-motivated students to work with on cutting-edge research projects. Support in the form of computation, data, platform, practical supervision and direction, is available.**
 
 <section>
   <h4>Teaching Support at U of Edinburgh</h4>
@@ -22,13 +22,28 @@ navigation_weight: 50
   </ul>
 </section>
 
-<section>
-<h4>As Co-Supervisor for Bachelor/Master Thesis</h4>
-<ul>
-  <li> 2024-25: Ryan Kwok (BSc. @ UoE, 2025), Yichun Xiao (BSc. @ UoE, 2025)  </li>
-  <li> 2023-24: Xiangyu Wen (MRes. @ UoE, 2024), Lawrence Zhu (BSc. @ UoE, 2024), Xinyuan Cui (BSc. @ UoE, 2024), Ruihong Li (MSc. @ UCL, 2024), Yunfan Shi (MSc. @ UCL, 2024) </li>
-  <li> 2022-23: Zhen Luo (MRes. @ UoE, 2023), Zhijun Pan (BSc. @ UoE, 2023) </li>
-  <li> 2021-22: Nout Cleef (BSc. @ UoE, 2022), Xuanyu Pan (MSc. @ UoE, 2022) </li>
-</ul>
-</section>
+<h4>Mentorship and Advising</h4>
+
+#### Current Students
+- **Yuanzhe Liu** — MS student in Data Science, University of Pennsylvania (UPenn)
+- **Liang Wang** — UG student, Chu Kochen Honors College, Zhejiang University (ZJU)
+- **Yichun Xiao** — MS student in Computer Science, University of Edinburgh
+- **Junqiao Fan** — PhD student, Nanyang Technological University (NTU)
+- **Caleb Adams** — MEng student, Massachusetts Institute of Technology (MIT)
+- **Jenny Baek** — MEng student, Massachusetts Institute of Technology (MIT)
+- **Tomer Borreda** — MS student in Computer Science, Technion – Israel Institute of Technology
+- **Liuyuan Na** — MPhil student in Engineering, University of Edinburgh
+
+#### Past Students
+- **Xiangyu Wen** — now PhD student, University College London (UCL)
+- **Lawrence Yunzhou Zhu** — now Master’s student, Georgia Institute of Technology
+- **Zhekai Duan** — now PhD student, University College London (UCL)
+- **Xinyuan Cui** — now MEng student, University of Pennsylvania (UPenn)
+- **Zhen Luo** — now PhD student, Southern University of Science and Technology
+- **Hantao Zhong** — now PhD student, University of Cambridge
+- **Zhijun Pan** — now PhD student, Royal College of Art
+- **Nout Cleef** — graduated as Master’s student, University of Oxford
+- **Guangze Zheng** — now PhD student, University of Hong Kong (HKU)
+- **Teng Li** — now PhD student, Hong Kong Polytechnic University (PolyU)
+- **Bowen Li** — now PhD student, Carnegie Mellon University (CMU)
 

@@ -7,10 +7,11 @@ nav: false
 navigation_weight: 60
 ---
 
-**I am happy to serve for the CV & Robotics & AI community when I am available. Feel free to send me an invitation to review paper if you find me a good fit.**
+**I am happy to serve for the CV & Robotics & AI & Sensing community when I am available. Feel free to send me an invitation to be an editor, chair or reviewer if you find me a good fit.**
 
-- Conference Editor
-    - Associate Editor (AE) for IROS 2025.
+- Editorial and Program Committee
+    - Technical Program Committee (TPC), IEEE International Conference on Sensing, Communication, and Networking (SECON) 2026
+    - Associate Editor (AE), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025.
 - Conference Reviewer
     - International Conference on Computer Vision (ICCV)
     - Robotics: Science and Systems (RSS)
@@ -22,7 +23,6 @@ navigation_weight: 60
     - Neural Information Processing Systems (NeurIPS)
     - IEEE International Conference on Robotics and Automation (ICRA)
     - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-    - ACM SIGGRAPH 
 
 - Journal Reviewer
     - IEEE Transactions on Mobile Computing (T-MC)
@@ -34,11 +34,11 @@ navigation_weight: 60
     - IEEE Transactions on Intelligent Vehicles (T-IV)
     - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
 
-- Invited Talk/Interview
+<!-- - Invited Talk/Interview
     - [2025-04] Research Talk @ <a href="http://english.ia.cas.cn/">Institute of Automation, CAS.
     - [2024-12] Research Talk @ <a href="https://fc.ustc.edu.cn/2024/1227/c14587a670036/pagem.htm">Micius Forum in USTC.
     - [2024-09] Research Talk @ <a href="https://www.3dcver.com/">3DCVer (3D视觉工坊)</a> online community.
     - [2024-08] Research Talk @ <a href="http://www.buaa.edu.cn/">College of Electronics Information Engineering</a> in Beihang University.
     - [2024-06] Research Talk @ <a href="https://www.zdjszx.com/">Heart of Autonomous Driving (自动驾驶之心)</a> media platform. 
     - [2024-05] Personal Interview @ <a href="https://cvlife.net//">CVlife (计算机视觉life)</a> media platform. 
-    - [2023-08] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> in New York University.
+    - [2023-08] Research Talk @ <a href="https://ai4ce.github.io/">AI4CE Lab</a> in New York University. -->
