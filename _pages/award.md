@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/
 title: awards
-description: Only main awards received since 2018 are listed here. 
+description: 
 nav: false
 navigation_weight: 40
 ---
