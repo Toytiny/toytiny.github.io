@@ -26,6 +26,7 @@ navigation_weight: 50
 
 
 ##### Current Students
+- **Yiran Tao**: PhD student, Massachusetts Institute of Technology (MIT)
 - **Yuanzhe Liu**: MS student in Data Science, University of Pennsylvania (UPenn)
 - **Liang Wang**: UG student, Chu Kochen Honors College, Zhejiang University (ZJU)
 - **Yichun Xiao**: MS student in Computer Science, University of Edinburgh
