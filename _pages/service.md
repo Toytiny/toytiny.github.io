@@ -25,6 +25,7 @@ navigation_weight: 60
     - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 - Journal Reviewer
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
     - IEEE Transactions on Mobile Computing (T-MC)
     - The International Journal of Robotics Research (IJRR)
     - IEEE Transactions on Robotics (T-RO)
