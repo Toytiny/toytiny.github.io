@@ -24,7 +24,7 @@ I am a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https
 
 💡 My current and ongoing research directions include (but not limited to):
 
--  Multisensor fusion for reliable mobile autonomoy in the wild
+-  Multisensor perception for reliable mobile autonomoy in the wild
 -  Long-horizon robotic manipulation across tasks and environments
 -  Scaling humanoid behaviour from human motion priors
 -  Non-intrusive human motion and physical interaction sensing
