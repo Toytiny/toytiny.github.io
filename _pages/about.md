@@ -26,8 +26,8 @@ My current and ongoing research directions include (but not limited to):
 
 -  Multisensor fusion for reliable mobile autonomoy in the wild
 -  Long-horizon robotic manipulation across tasks and environments
--  Scaling humanoid behaviour from  human motion priors
--  Non-intrusive human motion and physical interaction modelling  
+-  Scaling humanoid behaviour from human motion priors
+-  Non-intrusive human motion and physical interaction sensing
 -  Physics-grounded embodied foundation models
 -  Building deployable data flywheel for scalable robot learning
 
