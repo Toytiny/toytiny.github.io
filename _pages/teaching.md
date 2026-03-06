@@ -25,18 +25,18 @@ navigation_weight: 50
 <h4>Mentorship and Supervision</h4>
 
 
-- Current Students
+- **Current Students**
+  - **Chujun Tang**: MS student in Computer Science, Brown University
   - **Yiran Tao**: PhD student, Massachusetts Institute of Technology (MIT)
   - **Yuanzhe Liu**: MS student in Data Science, University of Pennsylvania (UPenn)
   - **Liang Wang**: UG student, Chu Kochen Honors College, Zhejiang University (ZJU)
   - **Yichun Xiao**: MS student in Computer Science, University of Edinburgh
   - **Junqiao Fan**: PhD student, Nanyang Technological University (NTU)
-  - **Caleb Adams**: MEng student, Massachusetts Institute of Technology (MIT)
   - **Jenny Baek**: MEng student, Massachusetts Institute of Technology (MIT)
   - **Tomer Borreda**: MS student in Computer Science, Technion 
   - **Liuyuan Na**: MPhil student in Engineering, University of Edinburgh
 
-- Past Students
+- **Past Students**
   - **Xiangyu Wen**: now PhD student, University College London (UCL)
   - **Lawrence Yunzhou Zhu**: now MS student, Georgia Institute of Technology
   - **Zhekai Duan**: now PhD student, University College London (UCL)
@@ -46,6 +46,5 @@ navigation_weight: 50
   - **Zhijun Pan**: now PhD student, Royal College of Art
   - **Nout Cleef**: prev. MS student, University of Oxford
   - **Guangze Zheng**: now PhD student, University of Hong Kong (HKU)
-  - **Teng Li**: now PhD student, Hong Kong Polytechnic University (PolyU)
   - **Bowen Li**: now PhD student, Carnegie Mellon University (CMU)
 

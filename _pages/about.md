@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     
-
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -34,24 +33,3 @@ I am a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https
 
 🤝 If you are interested in these directions and would like to explore collaboration opportunities, please feel free to reach out via email.
 
-<!-- 
-My research focuses on advancing the robustness, efficiency, and privacy-awarness of spatial perception for **Physical AI** systems. These efforts making AI to better support physical systems such as autonomous vehicles and robots, IoT and xR, aiming to facilitate their **widespread, long-horizon and non-intrusive** deployment in the wild.  -->
-
-<!-- <img src="../assets/img/research_interest.png" alt="Sample Figure" width="600"> -->
-
-<!-- I am also keen to incorporate full-spectral multi-modal fusion into my research field. -->
-
-<!-- Before coming to Edinburgh, I received my B.Eng degree with the highest honour - <a href="https://news.tongji.edu.cn/info/1003/76035.htm?ivk_sa=1023197a" target="_blank" rel="noopener">Academic Star</a> and was awarded double National Scholarships from <a href="https://en.tongji.edu.cn" target="_blank" rel="noopener">Tongji University</a> (2017-2021). -->
-
-<!-- where I worked in the <a href="https://vision4robotics.github.io/" target="_blank">V4R lab</a> under the supervision of <a href="https://www.researchgate.net/profile/Changhong-Fu" target="_blank">Dr. Changhong Fu</a>. In August 2020, I visited Tsinghua University and conducted on-site research under the supervison of <a href="https://ieeexplore.ieee.org/author/38237039900" target="_blank">Dr. Geng Lu</a>.  -->
-<!-- 👉 I am looking for self-motivated UG/Ms students to work with me and my collaborators at UoE/UCL/ETH/MIT/Oxford/Cambridge/NTU on **cutting-edge** research projects. -->
-
-<!-- , including but not limited to: 
--  **Mapping**: All-day scene completion with thermal imaging for mobile autonomy  
--  **Scene Understanding**: Robust and low-cost perception enabled by surrounding 4D radars
--  **Human Motion**: Human motion reconstruction from mmWave raw data via Diffusion
--  **Representation Learning**: Pre-trained transformer for heterogeneous radar sensors -->
-
-<!-- Support in the form of **sufficient** computational and sensory tools, robot platform, alongside **practical** supervision and direction, is available. Please contact directly via email if you are interested. -->
-
-<!-- 👉 I am actively looking for a research intern position this year. Shoot me an email if you think I am a good fit!  -->
