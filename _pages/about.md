@@ -31,5 +31,5 @@ I am a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https
 -  Building deployable data flywheel for scalable robot learning
 
 
-🤝 If you are interested in these directions and would like to explore collaboration opportunities, please feel free to reach out via email. <a href="mailto:fding@mit.edu"><i class="fa-solid fa-envelope"></i> Email</a> · <p><a href="/resume/"><i class="fa-solid fa-file-pdf"></i> Resume</a> · <a href="https://scholar.google.com/citations?user=Ja8dgh8AAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a></p>
+🤝 If you are interested in these directions and would like to explore collaboration opportunities, please feel free to reach out via email. <a href="mailto:fding@mit.edu"><i class="fa-solid fa-envelope"></i> Email</a> · <a href="/resume/"><i class="fa-solid fa-file-pdf"></i> Resume</a> · <a href="https://scholar.google.com/citations?user=Ja8dgh8AAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 
