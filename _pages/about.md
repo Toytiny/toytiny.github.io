@@ -10,6 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="/resume/"><i class="fa-solid fa-file-pdf"></i> Resume</a></p>
+    <p><a href="mailto:fding@mit.edu"><i class="fa-solid fa-envelope"></i> Email</a></p>
+    <p><a href="https://scholar.google.com/citations?user=Ja8dgh8AAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a></p>
+
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
