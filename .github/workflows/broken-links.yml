@@ -15,4 +15,4 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude 'https://unsplash.com' --exclude 'https://www.3dcver.com' --exclude 'https://www.zdjszx.com' --exclude 'https://cvlife.net' --verbose --no-progress './**/*.md' './**/*.html'
+          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude 'https://unsplash.com' --exclude 'https://www.3dcver.com' --exclude 'https://www.zdjszx.com' --exclude 'https://cvlife.net' --exclude 'https://github\.com/' --verbose --no-progress './**/*.md' './**/*.html'
