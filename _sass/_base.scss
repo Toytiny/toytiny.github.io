@@ -712,6 +712,48 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+
+        .annotation-wrap {
+          position: relative;
+          display: inline-flex;
+          align-items: center;
+          margin-left: 0.25rem;
+
+          .annotation-icon {
+            cursor: pointer;
+            color: var(--global-theme-color);
+            &:hover,
+            &:focus {
+              outline: none;
+              opacity: 0.9;
+            }
+          }
+
+          .annotation-content {
+            display: none;
+            position: absolute;
+            left: 0;
+            top: 100%;
+            margin-top: 0.25rem;
+            padding: 0.5rem 0.75rem;
+            max-width: 20rem;
+            font-size: 0.875rem;
+            font-weight: normal;
+            line-height: 1.4;
+            color: var(--global-text-color);
+            background: var(--global-bg-color);
+            border: 1px solid var(--global-divider-color);
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+            z-index: 10;
+            white-space: normal;
+          }
+
+          &:hover .annotation-content,
+          &:focus-within .annotation-content {
+            display: block;
+          }
+        }
       }
 
       .author {

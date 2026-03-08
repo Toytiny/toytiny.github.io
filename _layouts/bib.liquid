@@ -45,8 +45,9 @@
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
         <div class="title">{{entry.title}}{% if entry.annotation %}
-          <span class="annotation-icon" title="{{ entry.annotation }}">
-            <i class="fas fa-info-circle"></i>
+          <span class="annotation-wrap">
+            <span class="annotation-icon" role="button" tabindex="0" aria-label="Annotation"><i class="fas fa-info-circle"></i></span>
+            <span class="annotation-content">{{ entry.annotation }}</span>
           </span>
         {% endif %}</div>
         <!-- Author -->
