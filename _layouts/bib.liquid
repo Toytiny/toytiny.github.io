@@ -47,7 +47,7 @@
         <div class="title">{{entry.title}}{% if entry.annotation %}
           <span class="annotation-wrap">
             <span class="annotation-icon" role="button" tabindex="0" aria-label="Annotation"><i class="fas fa-info-circle"></i></span>
-            <span class="annotation-content">{{ entry.annotation }}</span>
+            <span class="annotation-content">{{ entry.annotation | markdownify }}</span>
           </span>
         {% endif %}</div>
         <!-- Author -->

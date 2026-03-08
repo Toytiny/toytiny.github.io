@@ -733,20 +733,24 @@ footer.sticky-bottom {
             display: none;
             position: absolute;
             left: 0;
-            top: 100%;
-            margin-top: 0.25rem;
-            padding: 0.5rem 0.75rem;
-            max-width: 20rem;
-            font-size: 0.875rem;
+            bottom: 100%;
+            margin-bottom: 0.35rem;
+            padding: 0.4rem 0.65rem;
+            max-width: 22rem;
+            font-size: 0.8125rem;
             font-weight: normal;
             line-height: 1.4;
             color: var(--global-text-color);
             background: var(--global-bg-color);
             border: 1px solid var(--global-divider-color);
-            border-radius: 4px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+            border-radius: 6px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
             z-index: 10;
             white-space: normal;
+
+            strong {
+              font-weight: 600;
+            }
           }
 
           &:hover .annotation-content,
