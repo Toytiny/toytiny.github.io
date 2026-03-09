@@ -736,17 +736,16 @@ footer.sticky-bottom {
             bottom: 100%;
             margin-bottom: 0.35rem;
             padding: 0.4rem 0.65rem;
-            max-width: 22rem;
             font-size: 0.8125rem;
             font-weight: normal;
             line-height: 1.4;
-            color: var(--global-text-color);
-            background: var(--global-bg-color);
-            border: 1px solid var(--global-divider-color);
-            border-radius: 6px;
-            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+            color: #fff;
+            background: #1a1a1a;
+            border: 1px solid #1a1a1a;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
             z-index: 10;
-            white-space: normal;
+            white-space: nowrap;
 
             strong {
               font-weight: 600;
@@ -784,17 +783,16 @@ footer.sticky-bottom {
             bottom: 100%;
             margin-bottom: 0.35rem;
             padding: 0.4rem 0.65rem;
-            max-width: 22rem;
             font-size: 0.8125rem;
             font-weight: normal;
             line-height: 1.4;
-            color: var(--global-text-color);
-            background: var(--global-bg-color);
-            border: 1px solid var(--global-divider-color);
-            border-radius: 6px;
-            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+            color: #fff;
+            background: #1a1a1a;
+            border: 1px solid #1a1a1a;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
             z-index: 10;
-            white-space: normal;
+            white-space: nowrap;
 
             strong {
               font-weight: 600;
