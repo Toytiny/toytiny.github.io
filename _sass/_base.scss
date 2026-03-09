@@ -748,8 +748,9 @@ footer.sticky-bottom {
             white-space: nowrap;
             width: max-content;
 
-            strong {
-              font-weight: 600;
+            p, strong, em, span {
+              display: inline;
+              white-space: nowrap;
             }
           }
 
@@ -796,8 +797,9 @@ footer.sticky-bottom {
             white-space: nowrap;
             width: max-content;
 
-            strong {
-              font-weight: 600;
+            p, strong, em, span {
+              display: inline;
+              white-space: nowrap;
             }
           }
 
