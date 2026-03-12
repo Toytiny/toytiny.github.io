@@ -19,15 +19,15 @@ nav_order: 0
 
 I am a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https://meche.mit.edu/people/faculty/hikrebs@mit.edu), director of [The 77 Lab](https://the77lab.mit.edu/). Before MIT, I worked with [Dr. Or Litany](https://orlitany.github.io/) at Technion as a Postdoctoral Fellow. I was honored to be awarded a [2025 RSS Pioneer](https://sites.google.com/view/rsspioneers2025/participants?authuser=0) for my work on robust spatial perception for mobile robotics. I received my Ph.D. in Robotics and Autonomous Systems from School of Informatics, The University of Edinburgh, supervised by [Dr. Chris Xiaoxuan Lu](https://christopherlu.github.io/), and my B.Eng. in Mechanical Engineering from Tongji University. 
 
-🎯 My research agenda centers on **Physical AI**, which integrates advanced artifcial intelligence with *physical* systems (e.g., autonomous vehicles, robots, xR, industrial and IoT devices) to enable them to perceive, understand, and interact in the *physical* world. My long-term vision is a *human–machine symbiotic ecosystem* where human and embodied intelligence coexist, collaborate and co-evolve. Achieving this vision requires systems that are *robust* under changing conditions, *responsible* around humans, and *affordable* to deploy at scale. This motivates my research goals along three key axes: (i) **condition-adaptive:** maintaining robustness across illumination, weather, and environmental shifts; (ii) **privacy-aware:** protecting human identity and sensitive content in privacy-critical applications; (iii) **cost-effective:** reducing reliance on expensive sensors and compute devices as well as costly real-world data collection and manual labeling.
+🎯 My research agenda centers on **Physical AI**, which integrates advanced artifcial intelligence with *physical* systems (e.g., self-driving cars, robots, wearable, industrial and IoT devices) to enable them to perceive, reason, and interact with the *physical* world. My long-term vision is a *human-machine symbiotic ecosystem* where human and embodied intelligence coexist, collaborate and co-evolve. 
 
-💡 My current and ongoing research directions include (but not limited to):
+🚀 Achieving this vision requires intelligent systems that are not only increasingly capable, but also **trustworthy** and **scalable** in the real world. By trustworthy, I mean systems that operate safely, reliably, and robustly across diverse environments and tasks, while protecting human privacy, respecting sensitive information, and aligning with human values. By scalable, I mean systems that can be developed and deployed efficiently at scale—through more affordable sensing and computation, as well as more scalable data collection, annotation, and learning pipelines. These core values motivate both my previous and current research, which addresses three key challenges in real-world Physical AI deployment: **condition-adaptive**, **privacy-aware**, and **cost-effective**.
+
+💡 My recent and ongoing research directions include (but not limited to):
 
 -  Multisensory perception for reliable mobile autonomoy in the wild
--  Long-horizon robotic manipulation across tasks and environments
--  Scaling humanoid robot behaviour from human motion priors
--  Non-intrusive human motion and physical interaction sensing
--  Physics-grounded embodied foundation models
+-  Generalized human motion and interaction sensing in real world 
+-  Long-horizon robotic (loco-)manipulation across tasks and environments
 -  Building deployable data flywheel for scalable robot learning
 
 
