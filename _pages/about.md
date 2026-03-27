@@ -7,6 +7,7 @@ subtitle: Postdoctoral Associate @ <a href="https://www.mit.edu/" target="_blank
 profile:
   align: right
   image: prof_pic.png
+  width: 24 # sidebar width % on ≥576px viewports (default theme: 30); omit to use 30
   image_circular: false # crops the image to make it circular
   more_info: >
     
