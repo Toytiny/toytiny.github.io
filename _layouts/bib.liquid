@@ -1,6 +1,22 @@
 ---
 ---
 <!-- _layouts/bib.html -->
+{%- assign pub_category_slug = entry.pub_category | default: '' | strip | downcase -%}
+{%- if pub_category_slug == '' -%}
+  {%- assign pub_category_slug = 'other' -%}
+  {%- if entry.type == 'inproceedings' or entry.type == 'incollection' -%}
+    {%- assign pub_category_slug = 'conference' -%}
+  {%- elsif entry.type == 'article' -%}
+    {%- if entry.preprint -%}
+      {%- assign pub_category_slug = 'preprint' -%}
+    {%- else -%}
+      {%- assign pub_category_slug = 'journal' -%}
+    {%- endif -%}
+  {%- elsif entry.type == 'phdthesis' or entry.type == 'mastersthesis' or entry.type == 'thesis' -%}
+    {%- assign pub_category_slug = 'thesis' -%}
+  {%- endif -%}
+{%- endif -%}
+<div class="bib-entry-item" data-pub-year="{{ entry.year }}" data-pub-category="{{ pub_category_slug }}">
       <div class="row">
         <div class="col-sm-2">
           {%- if entry.abbr -%}
@@ -258,3 +274,4 @@
           {%- endif %}
         </div>
       </div>
+</div>

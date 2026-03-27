@@ -646,6 +646,35 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  .pub-filters {
+    margin-bottom: 1.5rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    background-color: var(--global-card-bg-color);
+
+    .pub-filters-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .pub-filter-label {
+      margin: 0;
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--global-text-color);
+    }
+
+    .pub-filter-select {
+      min-width: 9rem;
+      max-width: 100%;
+      font-size: 0.875rem;
+    }
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
