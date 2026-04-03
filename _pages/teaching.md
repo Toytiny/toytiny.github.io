@@ -27,12 +27,10 @@ navigation_weight: 50
 
 - **Current Students**
   - **Chujun Tang**: MS student in Computer Science, Brown University
-  - **Yiran Tao**: PhD student, Massachusetts Institute of Technology (MIT)
   - **Yuanzhe Liu**: MS student in Data Science, University of Pennsylvania (UPenn)
   - **Liang Wang**: UG student, Chu Kochen Honors College, Zhejiang University (ZJU)
   - **Yichun Xiao**: MS student in Computer Science, University of Edinburgh
   - **Junqiao Fan**: PhD student, Nanyang Technological University (NTU)
-  - **Jenny Baek**: MEng student, Massachusetts Institute of Technology (MIT)
   - **Tomer Borreda**: MS student in Computer Science, Technion 
   - **Liuyuan Na**: MPhil student in Engineering, University of Edinburgh
 
