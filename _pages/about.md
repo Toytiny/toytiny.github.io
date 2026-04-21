@@ -22,11 +22,11 @@ I am a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https
 
 🎯 My research agenda centers on **Physical AI**, which integrates advanced artificial intelligence with *physical* systems (e.g., self-driving cars, robots, wearables, industrial and IoT devices) to enable them to perceive, reason, and interact with the *physical* world. My long-term vision is a *human-machine symbiotic ecosystem* where human and embodied intelligence coexist, collaborate and co-evolve. 
 
-🚀 Achieving this vision requires systems that are not only increasingly capable, but also trustworthy and scalable in the real world. **Trustworthy** systems operate *safely*, *reliably*, and *robustly* across diverse environments and tasks, while protecting human *privacy* and aligning with human *values*. **Scalable** systems can be developed and deployed efficiently at scale through more *affordable* sensing and computation, as well as  data collection, annotation, and learning pipelines. These core values motivate my research to address key challenges, i.e., **condition-adaptive**, **privacy-aware**, **cost-effective**, for real-world deployment.
+🚀 Achieving this vision requires systems that are not only increasingly capable, but also trustworthy and scalable in the real world. **Trustworthy** systems operate *safely*, *reliably*, and *robustly* across diverse environments and tasks, while protecting human *privacy*. **Scalable** systems should be developed and deployed at scale in a *cost-effective* way through *affordable* sensing, computation and data pipelines. My research aims to address the real-world challenges that hinder the trustworhty and scalable Physical AI. 
 
-💡 My recent and ongoing research directions include (but not limited to):
+💡 My current research directions include (but not limited to):
 
--  Multisensory perception for reliable mobile autonomoy in the wild
+-  Multisensory perception for reliable mobile autonomoy in the wild. 
 -  Generalized human motion and interaction sensing in real world 
 -  Long-horizon robotic (loco-)manipulation across tasks and environments
 -  Physics-aware generative data synthesis for embodied learning
