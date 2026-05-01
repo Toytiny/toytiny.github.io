@@ -26,10 +26,10 @@ I am a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https
 
 💡 My current research directions include (but not limited to):
 
--  Multisensory perception for reliable mobile autonomoy in the wild 
+-  Multisensory Intelligence for reliable mobile autonomoy in the wild 
 -  Generalized and non-intrusive human motion and interaction sensing 
 -  Long-horizon robotic (loco-)manipulation across tasks and environments
--  Generative scene and data synthesis for embodied learning
+-  Generative scene and data synthesis for robot learning
 
 
 🤝 If you are interested in these directions and would like to explore collaboration opportunities, please feel free to reach out via email. <a href="mailto:fding@mit.edu"><i class="fa-solid fa-envelope"></i> Email</a> · <a href="/resume/"><i class="fa-solid fa-file-pdf"></i> Resume</a> · <a href="https://scholar.google.com/citations?user=Ja8dgh8AAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
