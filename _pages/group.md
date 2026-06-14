@@ -12,7 +12,7 @@ nav_order: 3
 
 **Physical AI and Robotic Systems Lab** (物理智能与机器人系统实验室)
 
-*Towards Trustworthy, Scalable Physical AI for Human-Machine Symbiosis*
+*Towards Trustworthy and Scalable Physical AI for Human-Machine Symbiosis*
 
 I am [Fangqiang Ding](https://toytiny.github.io/), currently a Postdoctoral Associate at MIT. I will join [HKUST (GZ)](https://www.hkust-gz.edu.cn/) this summer as a Tenure-Track Assistant Professor and establish the **PAIRS Lab**.
 
@@ -31,12 +31,12 @@ Include but not limited to:
 
 We are actively recruiting:
 
-- **PhD students** (Fall 26 and Spring 27) — apply via the [Online Admission System](https://pgoas.hkust-gz.edu.cn/welcome) ([application guide](https://fytgs.hkust-gz.edu.cn/admissions/apply-now))
-- **MPhil students** — research MPhil via the [Online Admission System](https://pgoas.hkust-gz.edu.cn/welcome) ([application guide](https://fytgs.hkust-gz.edu.cn/admissions/apply-now)), or the interdisciplinary [Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/)
+- **PhD students** (Fall 26 and Spring 27)
+- **MPhil students** (Fall 26 and Fall 27)
 - **Research assistants (RA) / interns**
 - **Visiting students**
 
-Both **onsite** and **remote** arrangements are supported.
+For RA and interns, both **onsite** and **remote** arrangements are supported.
 
 ### What We Offer
 
@@ -49,9 +49,9 @@ Both **onsite** and **remote** arrangements are supported.
 
 **Financial support:**
 
-- **PhD:** full-time students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (up to ~**RMB 15,000/month** if awarded).
-- **MPhil:** full-time research MPhil students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (up to ~**RMB 10,000/month** if awarded); the [Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/) follows a separate admission and funding track.
-- **RA / interns:** living stipends may be provided on a case-by-case basis, depending on project needs and performance.
+- **PhD:** full-time students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 15,000/month**).
+- **MPhil:** full-time research MPhil students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 10,000/month**); the [Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/) follows a separate admission and funding track.
+- **RA / interns:** living stipends may be provided on a case-by-case basis.
 
 ### What We Look For
 
