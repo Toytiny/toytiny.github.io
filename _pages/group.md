@@ -1,13 +1,12 @@
 ---
 layout: page
-permalink: /hiring/
-title: hiring
+permalink: /group/
+title: group
 # description:
-nav: false
-navigation_weight: 35
+nav: true
+nav_order: 3
 ---
 
-<img src="/assets/img/pairs_hiring_poster.png" alt="PAIRS Lab hiring poster" style="width: 100%; max-width: 900px; margin-bottom: 2rem;">
 
 ## PAIRS Lab
 
@@ -30,7 +29,7 @@ Our group aims to build the next generation of **trustworthy, scalable Physical 
 
 We are actively recruiting:
 
-- **PhD students** (Fall 2026 and Spring 2027)
+- **PhD students** (Fall 2026 and Spring 2027) — apply via the [HKUST (GZ) Online Admission System](https://pgoas.hkust-gz.edu.cn/welcome) ([application guide](https://fytgs.hkust-gz.edu.cn/admissions/apply-now))
 - **MPhil students** — see the [HKUST (GZ) Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/)
 - **Research assistants (RA) / interns**
 - **Visiting students**
@@ -46,7 +45,11 @@ Both **onsite** and **remote** arrangements are supported.
 - Industry partnerships and project implementation experience
 - Support for paper publications and conference travel
 
-**PhD financial support:** eligible students can apply for the HKUST (GZ) Postgraduate Studentship (PGS), with a scholarship of approximately **RMB 15,000/month**.
+**Financial support:**
+
+- **PhD:** eligible students are automatically considered for the [HKUST (GZ) Postgraduate Studentship (PGS)](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees), with a scholarship of approximately **RMB 15,000/month** for up to four years.
+- **MPhil (Red Bird):** eligible students are automatically considered for PGS under the [Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/), with a scholarship of approximately **RMB 10,000/month** for up to two years ([scholarships & fees](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees)).
+- **RA / interns:** living stipends may be provided on a case-by-case basis, depending on project needs and performance.
 
 ### What We Look For
 
@@ -64,8 +67,7 @@ Please email [fding@mit.edu](mailto:fding@mit.edu) with the subject line:
 Include:
 
 - Resume (CV)
-- Statement of research interests
-- Relevant papers, project descriptions, or code links (if any)
-- A brief description of your future research interests and plans
+- Statement of research fit — your research experience, interests, and future plans
+- Relevant papers, project descriptions, code links, transcripts, certificates, or other supporting materials (if any)
 
 We welcome interested students to reach out — and please feel free to share this page with others who might be a good fit. **Let's build the future together!**

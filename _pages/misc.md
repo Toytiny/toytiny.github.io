@@ -5,9 +5,6 @@ nav: true
 dropdown: true
 nav_order: 4
 children: 
-    - title: hiring
-      permalink: /hiring/
-    - title: divider
     - title: awards
       permalink: /awards/
     - title: divider
