@@ -13,6 +13,7 @@ navigation_weight: 60
     - Technical Program Committee (TPC), IEEE International Conference on Sensing, Communication, and Networking (SECON) 2026
     - Associate Editor (AE), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025.
 - Conference Reviewer
+    - Conference on Robot Learning (CoRL)
     - International Conference on Computer Vision (ICCV)
     - Robotics: Science and Systems (RSS)
     - International Conference on Machine Learning (ICML)
