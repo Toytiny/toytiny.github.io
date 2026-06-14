@@ -31,7 +31,7 @@ Include but not limited to:
 
 We are actively recruiting:
 
-- **PhD students** (Fall 26 and Spring 27) — apply via the [HKUST (GZ) Online Admission System](https://pgoas.hkust-gz.edu.cn/welcome) ([application guide](https://fytgs.hkust-gz.edu.cn/admissions/apply-now))
+- **PhD students** (Fall 26 and Spring 27) — apply via the [Online Admission System](https://pgoas.hkust-gz.edu.cn/welcome) ([application guide](https://fytgs.hkust-gz.edu.cn/admissions/apply-now))
 - **MPhil students** — research MPhil via the [Online Admission System](https://pgoas.hkust-gz.edu.cn/welcome) ([application guide](https://fytgs.hkust-gz.edu.cn/admissions/apply-now)), or the interdisciplinary [Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/)
 - **Research assistants (RA) / interns**
 - **Visiting students**
