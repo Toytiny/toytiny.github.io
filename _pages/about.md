@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Associate @ <a href="https://www.mit.edu/" target="_blank">Massachusetts Institute of Technology</a><br>Incoming Assistant Professor @ <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems//" target="_blank">ROAS Trust</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST (GZ)</a>
+subtitle: Postdoctoral Associate @ <a href="https://www.mit.edu/" target="_blank">Massachusetts Institute of Technology</a><br>Incoming Tenure-Track Assistant Professor @ <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems//" target="_blank">ROAS Thrust</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST (GZ)</a>
 
 profile:
   align: right
