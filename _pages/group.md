@@ -31,9 +31,9 @@ Include but not limited to:
 
 We are actively recruiting:
 
-- **PhD students** (Fall 26 and Spring 27)
-- **MPhil students** (Fall 26 and Fall 27)
-- **Research assistants (RA) / interns**
+- **PhD students** (26 Fall and 27 Spring)
+- **MPhil students** (26 Fall and 27 Fall)
+- **Research assistants (RA) / Interns**
 - **Visiting students**
 
 For RA and interns, both **onsite** and **remote** arrangements are supported.
@@ -51,7 +51,7 @@ For RA and interns, both **onsite** and **remote** arrangements are supported.
 
 - **PhD:** full-time students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 15,000/month**).
 - **MPhil:** full-time research MPhil students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 10,000/month**); the [Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/) follows a separate admission and funding track.
-- **RA / interns:** living stipends may be provided on a case-by-case basis.
+- **RA / Interns:** living stipends may be provided on a case-by-case basis.
 
 ### What We Look For
 
@@ -69,7 +69,7 @@ Please email [fding@mit.edu](mailto:fding@mit.edu) with the subject line:
 Include:
 
 - Resume (CV)
-- Statement of research fit — your research experience, interests, and future plans
+- Statement of research fit — your research experience, interests, and future plans 
 - Relevant papers, reports, transcripts, certificates, or other supporting materials (if any)
 
-We welcome interested students to reach out — and please feel free to share this page with others who might be a good fit. **Let's build the future together!**
+We welcome interested students to reach out — and please feel free to share this page with others who might be a good fit. 
