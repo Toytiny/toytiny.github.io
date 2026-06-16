@@ -22,9 +22,9 @@ Our group aims to build the next generation of **Physical AI and robotic systems
 
 Include but not limited to:
 
-1. **Multisensory intelligence for robust mobile autonomous systems**
-2. **Generalized and non-intrusive human understanding and interaction**
-3. **Long-horizon mobile manipulation across environments and tasks**
+1. **Multisensory intelligence for reliable mobile autonomous systems**
+2. **Generalized and non-intrusive human motion and interaction understanding**
+3. **Long-horizon and self-improving mobile manipulation across scenarios**
 4. **Multimodal data and scene generation for scalable robot learning**
 
 ### Open Positions
