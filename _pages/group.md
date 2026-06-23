@@ -49,9 +49,9 @@ For RA and interns, both **onsite** and **remote** arrangements are supported.
 
 **Financial support:**
 
-- **PhD:** full-time students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 15,000/month**).
-- **MPhil:** full-time research MPhil students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 10,000/month**); the [Red Bird MPhil Program](https://cft.hkust-gz.edu.cn/admission/) follows a separate admission and funding track.
-- **RA / Interns:** living stipends may be provided on a case-by-case basis.
+- **PhD:** Full-time students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 15,000/month**) for up to 4 years..
+- **MPhil:** Full-time research MPhil students are automatically considered for PGS (**RMB 10,000/month)** for up to **2 years**. Admission and supervisor matching follow the university’s official MPhil admission process.
+- **RA / Interns:** Living stipends may be provided on a case-by-case basis.
 
 ### What We Look For
 
