@@ -16,7 +16,7 @@ nav_order: 3
 
 I am [Fangqiang Ding](https://toytiny.github.io/), currently a Postdoctoral Associate at MIT. I will join [HKUST (GZ)](https://www.hkust-gz.edu.cn/) this summer as a Tenure-Track Assistant Professor and establish the **PAIRS Lab**.
 
-Our group aims to build the next generation of **Physical AI and robotic systems** that can solve complex real-world challenges, enable widespread deployment, and advance a future of human–machine symbiosis.
+Our group aims to build the next generation of **Physical AI systems** that can solve complex real-world challenges, enable widespread and long-term deployment, and advance a future of human–machine symbiosis.
 
 ### Research Directions
 
@@ -25,7 +25,7 @@ Include but not limited to:
 1. **Multisensory intelligence for reliable mobile autonomous systems**
 2. **Generalized and non-intrusive human motion and interaction understanding**
 3. **Long-horizon and self-improving mobile manipulation across scenarios**
-4. **Multimodal data and scene generation for scalable robot learning**
+4. **Multimodal data and scene synthesis for scalable robot learning**
 
 ### Open Positions
 
