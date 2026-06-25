@@ -24,17 +24,18 @@ navigation_weight: 50
 
 <h4>Mentorship and Supervision</h4>
 
-
 - **Current Students**
+  - **Hanlin Liu**: UG student in Artificial Intelligence, Beijing Institute of Technology (BIT)
+  - **Jingyi Zhong**: UG student in Computer Science, University of Southampton
+  - **Ling Yao**: UG student in Engineering, Shanghai Jiao Tong University (SJTU)
   - **Chujun Tang**: MS student in Computer Science, Brown University
-  - **Yuanzhe Liu**: MS student in Data Science, University of Pennsylvania (UPenn)
-  - **Liang Wang**: UG student, Chu Kochen Honors College, Zhejiang University (ZJU)
   - **Yichun Xiao**: MS student in Computer Science, University of Edinburgh
   - **Junqiao Fan**: PhD student, Nanyang Technological University (NTU)
-  - **Tomer Borreda**: MS student in Computer Science, Technion 
-  - **Liuyuan Na**: MPhil student in Engineering, University of Edinburgh
 
 - **Past Students**
+  - **Liang Wang**: now PhD student, Zhejiang University (ZJU)
+  - **Tomer Borreda**: now PhD student in Computer Science, Technion 
+  - **Yuanzhe Liu**: incoming PhD student, University of Illinois Urbana-Champaign (UIUC)
   - **Xiangyu Wen**: now PhD student, University College London (UCL)
   - **Lawrence Yunzhou Zhu**: now MS student, Georgia Institute of Technology
   - **Zhekai Duan**: now PhD student, University College London (UCL)
