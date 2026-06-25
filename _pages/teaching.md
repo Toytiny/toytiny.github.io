@@ -22,7 +22,7 @@ navigation_weight: 50
   </ul>
 </section>
 
-<h4>Mentorship and Supervision</h4>
+<!-- <h4>Mentorship and Supervision</h4>
 
 - **Current Students**
   - **Hanlin Liu**: UG student in Artificial Intelligence, Beijing Institute of Technology (BIT)
@@ -46,4 +46,4 @@ navigation_weight: 50
   - **Nout Cleef**: prev. MS student, University of Oxford
   - **Guangze Zheng**: now PhD student, University of Hong Kong (HKU)
   - **Bowen Li**: now PhD student, Carnegie Mellon University (CMU)
-
+ -->
