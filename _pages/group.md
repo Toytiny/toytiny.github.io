@@ -60,7 +60,7 @@ For RA and interns, both **onsite** and **remote** arrangements are supported.
 
 ### How to Apply
 
-Please email [fding@mit.edu](mailto:fding@mit.edu) with the subject line:
+Please email [fangqiangd@hkust-gz.edu.cn](mailto:fangqiangd@hkust-gz.edu.cn) with the subject line:
 
 `PAIRS Lab: [PhD/MPhil/RA/Intern/Visitor] Application - [Your Name]`
 
