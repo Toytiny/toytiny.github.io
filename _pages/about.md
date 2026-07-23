@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Tenure-Track Assistant Professor @ <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST (GZ)</a>
+subtitle: Tenure-Track Assistant Professor @ <a href="https://sysh.hkust-gz.edu.cn/thrust-areas/roas/about-roas/" target="_blank">ROAS Thrust</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST (GZ)</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ nav_order: 0
 ---
 <h2>about me</h2>
 
-🤖 I am a Tenure-Track Assistant Professor at [HKUST (GZ)](https://www.hkust-gz.edu.cn/), where I direct the [PAIRS Lab](/group/) (Physical AI and Robotic Systems Laboratory).  My research centers on **Trustworthy and Scalable Physical AI:** developing next-generation intelligent physical systems (e.g., robots, self-driving cars, wearables, industrial and AIoT devices), that can operate safely and robustly in the real world, respect and protect humans, scale in a data- and resource-effcient way, and continously adapt to broader tasks. My long-term vision is to build a *human-machine symbiotic ecosystem* where human and physical AI systems coexist, collaborate and co-evolve in the real world. 
+🤖 I am an Assistant Professor at [HKUST (GZ)](https://www.hkust-gz.edu.cn/), where I direct the [PAIRS Lab](/group/) (Physical AI and Robotic Systems Laboratory).  My research centers on **Trustworthy and Scalable Physical AI:** developing next-generation intelligent physical systems (e.g., robots, self-driving cars, wearables, industrial and AIoT devices), that can operate safely and robustly in the real world, respect and protect humans, scale in a data- and resource-effcient way, and continously adapt to broader tasks. My long-term vision is to build a *human-machine symbiotic ecosystem* where human and physical AI systems coexist, collaborate and co-evolve in the real world. 
 
 🎓 Before joining HKUST (GZ), I was a Postdoctoral Associate at MIT, working with [Dr. Hermano Igo Krebs](https://meche.mit.edu/people/faculty/hikrebs@mit.edu) and was a Research Fellow at Technion. I received my Ph.D. in Robotics and Autonomous Systems from The University of Edinburgh and my B.Eng. in Mechanical Engineering from Tongji University. I was honored to be awarded a [RSS Pioneer 2025](https://sites.google.com/view/rsspioneers2025/participants?authuser=0) for my work on robust spatial perception for robotics. 
 
