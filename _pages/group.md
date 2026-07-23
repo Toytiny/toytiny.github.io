@@ -14,7 +14,7 @@ nav_order: 3
 
 *Towards Trustworthy and Scalable Physical AI for Human-Machine Symbiosis*
 
-I am [Fangqiang Ding](https://toytiny.github.io/), currently a Postdoctoral Associate at MIT. I will join [HKUST (GZ)](https://www.hkust-gz.edu.cn/) this summer as a Tenure-Track Assistant Professor and establish the **PAIRS Lab**. Our group aims to build the next-generation **physical AI systems** that can solve complex real-world challenges, enable widespread and long-term deployment, and advance a future of human–machine symbiosis.
+Our group is leaded by [Fangqiang Ding](https://toytiny.github.io/), currently a Tenure-Track Assistant Professor at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). Our mission is to build the next-generation **Physical AI systems** that can solve complex real-world challenges, enable widespread and long-term deployment, and advance a future of human–machine symbiosis.
 
 ### Research Directions
 
@@ -29,7 +29,7 @@ Include but not limited to:
 
 We are actively recruiting:
 
-- **PhD students** (26 Fall and 27 Spring)
+- **PhD students** (27 Spring and 27 Fall)
 - **MPhil students** (26 Fall and 27 Fall)
 - **Research assistants (RA) / Interns**
 - **Visiting students**
