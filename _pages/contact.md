@@ -11,7 +11,7 @@ Office: E3(C9) 508, The Hong Kong University of Science and Technology (Guangzho
 Email: fangqiangd [at] hkust-gz.edu.cn
 
 <iframe
-  src="/campus-map.html"
+  src="https://uri.amap.com/marker?position=113.47828%2C22.89420&amp;name=香港科技大学（广州）&amp;coordinate=wgs84&amp;callnative=0&amp;src=fangqiangding"
   title="香港科技大学（广州）地图"
   width="100%"
   height="400"
