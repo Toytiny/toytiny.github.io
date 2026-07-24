@@ -14,7 +14,7 @@ nav_order: 3
 
 *Towards Trustworthy and Scalable Physical AI for Human-Machine Symbiosis*
 
-Our group is leaded by [Fangqiang Ding](https://toytiny.github.io/), currently a Tenure-Track Assistant Professor at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). Our mission is to build the next-generation **Physical AI systems** that can solve complex real-world challenges, enable widespread and long-term deployment, and advance a future of human–machine symbiosis.
+Our group is led by [Fangqiang Ding](https://toytiny.github.io/), currently a Tenure-Track Assistant Professor at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). Our mission is to build the next-generation **Physical AI systems** that can solve complex real-world challenges, enable widespread and long-term deployment, and advance a future of human–machine symbiosis.
 
 ### Research Directions
 
