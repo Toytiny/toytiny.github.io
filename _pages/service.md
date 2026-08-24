@@ -8,8 +8,8 @@ navigation_weight: 60
 ---
 
 - University Service
-    - Chair, MSc Committee, Robotics and Autonomous Systems (ROAS) Thrust, HKUST(GZ)
-    - Educational Project Coordinator (EPC), Red Bird MPhil (RBM) Program, Robotics and Autonomous Systems (ROAS) Thrust, HKUST(GZ)
+    - Educational Project Coordinator for RBM Program, ROAS Thrust, HKUST(GZ)
+    - MSc Committee Chair, ROAS Thrust, HKUST(GZ)
 
 - Editorial and Program Committee
     - Technical Program Committee (TPC), IEEE International Conference on Sensing, Communication, and Networking (SECON) 2026
