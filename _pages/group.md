@@ -12,7 +12,7 @@ nav_order: 3
 
 **Physical AI and Robotic Systems Laboratory** (物理智能与机器人系统实验室)
 
-<div class="row justify-content-sm-center">
+<div class="row">
   <div class="col-sm-9 mt-3 mt-md-0">
     <a href="https://pairslab.github.io/">
       {% include figure.liquid path="assets/img/pairs-lab-primary-horizontal-color.png" alt="PAIRS Lab logo" class="img-fluid" %}
@@ -21,8 +21,6 @@ nav_order: 3
 </div>
 
 *Towards Trustworthy and Scalable Physical AI for Human-Machine Symbiosis*
-
-Group website: [https://pairslab.github.io/](https://pairslab.github.io/)
 
 ### Open Positions
 
