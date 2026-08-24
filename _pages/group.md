@@ -8,55 +8,32 @@ nav_order: 3
 ---
 
 
-## PAIRS Lab
+## [PAIRS Lab](https://pairslab.github.io/)
 
-**Physical AI and Robotic Systems Lab** (物理智能与机器人系统实验室)
+**Physical AI and Robotic Systems Laboratory** (物理智能与机器人系统实验室)
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-9 mt-3 mt-md-0">
+    <a href="https://pairslab.github.io/">
+      {% include figure.liquid path="assets/img/pairs-lab-primary-horizontal-color.png" alt="PAIRS Lab logo" class="img-fluid" %}
+    </a>
+  </div>
+</div>
 
 *Towards Trustworthy and Scalable Physical AI for Human-Machine Symbiosis*
 
-Our group is led by [Fangqiang Ding](https://toytiny.github.io/), currently a Tenure-Track Assistant Professor at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). Our mission is to build the next-generation **Physical AI systems** that can solve complex real-world challenges, enable widespread and long-term deployment, and advance a future of human–machine symbiosis.
-
-### Research Directions
-
-Include but not limited to:
-
-1. **Multisensory intelligence for reliable mobile autonomous systems**
-2. **Generalized and non-intrusive human motion and interaction understanding**
-3. **Long-horizon and self-improving mobile manipulation across scenarios**
-4. **Multimodal data and scene synthesis for scalable robot learning**
+Group website: [https://pairslab.github.io/](https://pairslab.github.io/)
 
 ### Open Positions
 
 We are actively recruiting:
 
 - **PhD students** (27 Spring and 27 Fall)
-- **MPhil students** (26 Fall and 27 Fall)
+- **MPhil students** (26 Fall and 27 Fall) — we only recruit students who have already been admitted through the university's official admission process
 - **Research assistants (RA) / Interns**
 - **Visiting students**
 
 For RA and interns, both **onsite** and **remote** arrangements are supported.
-
-### What We Offer
-
-- Sufficient computing resources and hardware support
-- Weekly regular guidance and research discussions
-- An open, inclusive, and collaborative lab culture
-- High-level research training and international collaboration opportunities
-- Industry partnerships and project implementation experience
-- Support for paper publications and conference travel
-
-**Financial support:**
-
-- **PhD:** Full-time students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 15,000/month**) for up to 4 years..
-- **MPhil:** Full-time research MPhil students are automatically considered for [PGS](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) (**RMB 10,000/month**) for up to **2 years**. Admission and supervisor matching follow the university’s official MPhil admission process.
-- **RA / Interns:** Living stipends may be provided on a case-by-case basis.
-
-### What We Look For
-
-- Passion for research, self-motivation, curiosity, and strong hands-on ability
-- Relevant publication or project experience, with an initial understanding of the field
-- Familiarity with AI tools or hardware; proficiency in programming and English writing
-- Willingness to commit long-term to solving real-world problems and conducting impactful research
 
 ### How to Apply
 
@@ -67,7 +44,9 @@ Please email [fangqiangd@hkust-gz.edu.cn](mailto:fangqiangd@hkust-gz.edu.cn) wit
 Include:
 
 - Resume (CV)
-- Statement of research fit — your research experience, interests, and future plans 
+- Statement of research fit — your research experience, interests, and future plans
 - Relevant papers, reports, transcripts, certificates, or other supporting materials (if any)
 
-We welcome interested students to reach out — and please feel free to share this page with others who might be a good fit. 
+We welcome interested students to reach out — and please feel free to share this page with others who might be a good fit.
+
+For more information about our group, please visit our [group website](https://pairslab.github.io/).
