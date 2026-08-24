@@ -7,7 +7,9 @@ nav: false
 navigation_weight: 60
 ---
 
-**I am happy to serve for the CV & Robotics & AI & Sensing community when I am available. Feel free to send me an invitation to be an editor, chair or reviewer if you find me a good fit.**
+- University Service
+    - Chair, MSc Committee, Robotics and Autonomous Systems (ROAS) Thrust, HKUST(GZ)
+    - Educational Project Coordinator (EPC), Red Bird MPhil (RBM) Program, Robotics and Autonomous Systems (ROAS) Thrust, HKUST(GZ)
 
 - Editorial and Program Committee
     - Technical Program Committee (TPC), IEEE International Conference on Sensing, Communication, and Networking (SECON) 2026

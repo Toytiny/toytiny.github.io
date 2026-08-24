@@ -7,15 +7,13 @@ nav: false
 navigation_weight: 50
 ---
 
-**I am looking for self-motivated students to work with on cutting-edge research projects. Support in the form of computation, data, platform, practical supervision and direction, is available.**
-
 <section>
-  <h4>Teaching at HKUST(GZ)</h4>
+  <h4>Lecturer at HKUST(GZ)</h4>
   <ul>
   <li>
-  <strong>Introduction to Robotics and Autonomous Systems (ROAS 1010)</strong>. Undergraduate Course, Fall 2026. One of the lecturers. </li>
+  <strong>Introduction to Robotics and Autonomous Systems (ROAS 1010)</strong>. Undergraduate Course, Fall 2026. </li>
   <li>
-  <strong>Career Development for Systems Hub Research Students (SYSH 6780)</strong>. Graduate Course, Fall 2026. One of the lecturers. </li>
+  <strong>Career Development for Systems Hub Research Students (SYSH 6780)</strong>. Graduate Course, Fall 2026. </li>
   </ul>
 </section>
 
