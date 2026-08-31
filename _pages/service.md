@@ -12,6 +12,7 @@ navigation_weight: 60
     - MSc Committee Chair, ROAS Thrust, HKUST(GZ)
 
 - Editorial and Program Committee
+    - Guest Editor, *Electronics*, Special Issue: “Multimodal Perception and Embodied Intelligence for Physical World Understanding: From Robust Sensing to Interaction”
     - Technical Program Committee (TPC), IEEE International Conference on Sensing, Communication, and Networking (SECON) 2026
     - Associate Editor (AE), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025.
 - Conference Reviewer

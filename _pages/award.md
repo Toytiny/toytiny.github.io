@@ -20,6 +20,7 @@ navigation_weight: 40
     - Tongji Outstanding Student, 2019
     - Tongji Outstanding Student, 2018
 - **Competition**
+    - Second Prize of National Safety Emergency Rescue Robot Competition, 2026
     - Grand Prize of "Chanllenge Cup" in Shanghai (top 1%), 2021
     - First Prize of Tongji Mathematics Competition (top 2%), 2018
     - First Prize of Shanghai Graphics Design Cup, 2018
