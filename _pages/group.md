@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+> Visit our [group website](https://pairslab.github.io/) for more lab news, research, and updates.
 
 ## [PAIRS Lab](https://pairslab.github.io/)
 
