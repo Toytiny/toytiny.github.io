@@ -27,8 +27,9 @@ nav_order: 3
 
 We are actively recruiting:
 
+- **Postdoctoral Fellows** — start date is negotiable
 - **PhD students** (27 Spring and 27 Fall)
-- **MPhil students** (26 Fall and 27 Fall) — we only recruit students who have already been admitted through the university's official admission process
+- **MPhil/MSc students** (26 Fall and 27 Fall) — we only recruit students who have already been admitted through the university's official admission process
 - **Research assistants (RA) / Interns**
 - **Visiting students**
 
@@ -38,7 +39,7 @@ For RA and interns, both **onsite** and **remote** arrangements are supported.
 
 Please email [fangqiangd@hkust-gz.edu.cn](mailto:fangqiangd@hkust-gz.edu.cn) with the subject line:
 
-`PAIRS Lab: [PhD/MPhil/RA/Intern/Visitor] Application - [Your Name]`
+`PAIRS Lab: [Postdoc/PhD/MPhil/MSc/RA/Intern/Visitor] Application - [Your Name]`
 
 Include:
 
@@ -46,6 +47,6 @@ Include:
 - Statement of research fit — your research experience, interests, and future plans
 - Relevant papers, reports, transcripts, certificates, or other supporting materials (if any)
 
-We welcome interested students to reach out — and please feel free to share this page with others who might be a good fit.
+We welcome interested applicants to reach out — and please feel free to share this page with others who might be a good fit.
 
 For more information about our group, please visit our [group website](https://pairslab.github.io/).
