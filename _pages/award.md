@@ -7,7 +7,7 @@ nav: false
 navigation_weight: 40
 ---
 
-Selected major awards:
+Selected honors and prize:
 
 - Second Prize of National Safety Emergency Rescue Robot Competition, 2026
 - RSS Pioneers 2025 (33 awardees worldwide), 2025
@@ -18,5 +18,3 @@ Selected major awards:
 - Undergraduate Academic Star in Tongji University (10/18,510), 2020
 - China National Scholarship (top 1%), 2019
 - China National Scholarship (top 1%), 2018
-- First Prize of Tongji Mathematics Competition (top 2%), 2018
-- First Prize of Shanghai Graphics Design Cup, 2018
