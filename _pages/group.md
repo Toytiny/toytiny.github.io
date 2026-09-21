@@ -30,7 +30,7 @@ We are actively recruiting:
 - **Postdoctoral Fellows** — start date is negotiable
 - **PhD students** (27 Spring and 27 Fall)
 - **MPhil/MSc students** (26 Fall and 27 Fall) — we only recruit students who have already been admitted through the university's official admission process
-- **Research assistants (RA) / Interns**
+- **Research assistants (RA) / Interns** — applicants must be able to commit at least half of their time each week to group-related research after joining
 - **Visiting students**
 
 For RA and interns, both **onsite** and **remote** arrangements are supported.
