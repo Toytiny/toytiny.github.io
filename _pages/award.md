@@ -9,6 +9,7 @@ navigation_weight: 40
 
 Selected honors and prize:
 
+- CVPR 2026 Outstanding Reviewer (top 5% reviewers), 2026
 - Second Prize of National Safety Emergency Rescue Robot Competition, 2026
 - RSS Pioneers 2025 (33 awardees worldwide), 2025
 - CVPR 2023 Highlight Paper (top 2.6%), 2023
